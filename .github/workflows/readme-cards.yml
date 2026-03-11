@@ -1,0 +1,72 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=whtjddlr&show_icons=true&hide_border=true&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=00000000
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=whtjddlr&layout=compact&langs_count=6&hide_border=true&title_color=111111&text_color=6B7280&bg_color=00000000
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin cards
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=notion-to-github&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-notion-to-github.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card PJT01
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=PJT01&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-pjt01.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card CodeTree
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=CodeTree&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-codetree.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card TIL
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=TIL&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-til.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
