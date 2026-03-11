@@ -1,42 +1,38 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/main/assets/pacman-arcade-header.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&text=PAC-MAN%20ARCADE%20PROFILE&fontSize=36&fontColor=FFD700&color=000000" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3200&pause=1400&color=FFD700&center=true&vCenter=true&width=800&lines=PLAYER+ONE:+SUNGIK+CHO;ALGORITHM+%2F+ENGINEERING+%2F+AUTOMATION;PRESS+START+TO+BUILD+COOL+THINGS" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Pacman.svg" width="140"/>
 
 <br/><br/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Pacman.svg" width="120"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,git,github&theme=dark"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=PLAYER+ONE:+SUNGIK+CHO;SYSTEM:+ALGORITHMS+%26+ENGINEERING;STATUS:+BUILDING+COOL+THINGS" />
 
 </div>
 
 ---
 
-# 🎮 HUD / PLAYER STATS
+## Player Stats
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🟡 LEVEL SELECT (PROJECTS)
+## Projects
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&theme=tokyonight&hide_border=true"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&theme=tokyonight&hide_border=true"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -44,15 +40,15 @@
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&theme=tokyonight&hide_border=true"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&theme=tokyonight&hide_border=true"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 👾 GAME MAP
+## Activity Map
 
 <div align="center">
 
@@ -62,7 +58,7 @@
 
 ---
 
-# 📟 SYSTEM LOG
+## Metrics
 
 <div align="center">
 
@@ -74,6 +70,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INSERT%20COIN-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INSERT%20COIN-FFD700?style=for-the-badge&logo=arcade&logoColor=black"/>
 
 </div>
