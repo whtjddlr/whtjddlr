@@ -47,8 +47,8 @@ Building useful systems with clarity and structure.
 <div align="center">
   <p style="color: #6B7280; font-family: 'Inter', sans-serif; font-size: 14px;">🎯 Currently Focusing On</p>
   
-  <a href="https://solved.ac/본인백준아이디">
-    <img src="http://mazassumnida.wtf/api/v1/generate_badge?boj=본인백준아이디" alt="Solved.ac Profile" />
+  <a href="https://solved.ac/choim2013">
+    <img src="http://mazassumnida.wtf/api/v1/generate_badge?boj=choim2013" alt="Solved.ac Profile" />
   </a>
 </div>
 
