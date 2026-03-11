@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake Animation
 
 on:
   schedule:
@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: whtjddlr
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=4AA8FF&color_dots=%23E8F4FF,%23CFE8FF,%239FD0FF,%234AA8FF,%231E3A8A
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
