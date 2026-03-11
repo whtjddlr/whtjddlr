@@ -59,6 +59,10 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Labeled PR [#2](https://github.com/whtjddlr/CodeTree/pull/2) in [whtjddlr/CodeTree](https://github.com/whtjddlr/CodeTree)
+2. 💪 Opened PR [#2](https://github.com/whtjddlr/CodeTree/pull/2) in [whtjddlr/CodeTree](https://github.com/whtjddlr/CodeTree)
+3. 🎉 Merged PR [#1](https://github.com/whtjddlr/CodeTree/pull/1) in [whtjddlr/CodeTree](https://github.com/whtjddlr/CodeTree)
+4. ℹ️ Labeled PR [#1](https://github.com/whtjddlr/CodeTree/pull/1) in [whtjddlr/CodeTree](https://github.com/whtjddlr/CodeTree)
 <!--END_SECTION:activity-->
 
 <br/>
