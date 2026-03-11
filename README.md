@@ -1,29 +1,19 @@
 <div align="center">
 
-<h2>
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="45" style="vertical-align: middle; margin-right: 10px;" alt="Chrome Dino"/>
-  <span style="vertical-align: middle;">Sungik Cho</span>
-</h2>
+<a href="https://github.com/whtjddlr">
+  <img src="https://image.api.playground.com/gen/image_4.png?v=2" alt="Sungik Cho's Pixel Art Profile Header" width="100%" />
+</a>
 
-<p>
-Building useful systems with clarity and structure.
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="110" alt="pixel dinosaur"/>
 </p>
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1500&color=6B7280&center=true&vCenter=true&width=520&lines=Algorithm+%2F+Automation+%2F+Engineering;Simple+work.+Strong+impact.;Less+noise+more+substance."/>
-</p>
-
-<p>
-  <a href="mailto:이메일주소@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/본인링크드인"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="블로그주소"><img src="https://img.shields.io/badge/Blog-6B7280?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-</p>
-
-</div>
 
 <br/>
 
-## 💻 Tech Stack & Focus
+## 🛠️ [POWER-UPS] Tech Stack & Focus
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=light" />
@@ -32,38 +22,92 @@ Building useful systems with clarity and structure.
 <br/>
 
 <div align="center">
-  <p style="color: #6B7280; font-family: 'Inter', sans-serif; font-size: 14px;">🎯 Currently Focusing On</p>
-  <img src="https://img.shields.io/badge/Data_Structures-111111?style=for-the-badge&logo=gitbook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <p>
+    <img src="https://img.shields.io/badge/Data_Structures-111111?style=flat-square&logo=gitbook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=flat-square&logo=hackerrank&logoColor=white"/>
+  </p>
 </div>
 
 <br/>
 
-## 📁 Selected Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e7eb,50:dbeafe,100:e5e7eb&height=2&section=header" width="92%"/>
+</p>
+
+<br/>
+
+## 📂 [COMPLETED_PROJECTS] Projects
 
 <div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&hide_border=false&border_color=E5E7EB&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=false&border_color=E5E7EB&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
-
+  <a href="https://github.com/whtjddlr/notion-to-github">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&hide_border=false&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&hide_border=false&border_color=E5E7EB&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
-
+  <a href="https://github.com/whtjddlr/CodeTree">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=false&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/whtjddlr/TIL">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&hide_border=false&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb"/>
+  </a>
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e7eb,50:dbeafe,100:e5e7eb&height=2&section=header" width="92%"/>
+</p>
+
+<br/>
+
+## 📊 [GITHUB_ANALYTICS]
 
 <div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&hide_border=false&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&hide_border=false&title_color=111111&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb"/>
+</div>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&hide_border=false&border_color=E5E7EB&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=00000000&rank_icon=github"/>
+<br/>
 
-<img width="47%" src="
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e7eb,50:dbeafe,100:e5e7eb&height=2&section=header" width="92%"/>
+</p>
+
+<br/>
+
+## 📈 [METRICS_LOGS]
+
+<div align="center">
+  <img width="90%" src="./github-metrics.svg?v=2" alt="Github Metrics Dashboard"/>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="90" alt="pixel dinosaur small"/>
+</p>
+
+<br/>
+
+## 📞 [CONTACT_INFO]
+
+<div align="center">
+  <a href="mailto:이메일주소@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/본인링크드인" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="블로그주소" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/BLOG-6B7280?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+</div>
+
+</div>
