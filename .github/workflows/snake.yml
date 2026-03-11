@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: whtjddlr
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2322C55E&color_dots=%23ECFDF5,%23D1FAE5,%2386EFAC,%234ADE80,%2316A34A
+            dist/github-contribution-grid-snake.svg?color_snake=3B82F6&color_dots=%23ECFDF5,%23D1FAE5,%2386EFAC,%234ADE80,%2316A34A
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
