@@ -1,16 +1,19 @@
 <div align="center">
 
-<h1>Sungik Cho</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F8FBFF,100:EAF4FF&height=220&section=header&text=SUNGIK%20CHO&fontSize=56&fontColor=1E3A8A&fontAlignY=42&desc=Algorithm%20%7C%20Automation%20%7C%20Engineering&descSize=18&descAlignY=62"/>
 
-<p>
-🐍 Python developer solving problems one commit at a time.
-</p>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,git,github" height="42"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=820&lines=Building+useful+systems+with+clarity;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=4AA8FF" />
+</div>
+
 
 <div align="center">
 
