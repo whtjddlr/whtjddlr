@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=820&lines=Keeping+the+snake+well+fed+with+Python+commits;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" alt="Typing SVG" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="90" alt="dino"/>
-
 </div>
 
 <br/>
