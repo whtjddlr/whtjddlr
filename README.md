@@ -4,37 +4,34 @@
   <img src="https://image.api.playground.com/gen/image_4.png?v=2" alt="Sungik Cho Header" width="100%" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="32%" align="center" valign="middle">
+<td width="34%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="180" alt="pixel dinosaur"/>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="240" alt="pixel dinosaur"/>
 
 </td>
-<td width="68%" align="left" valign="middle">
+<td width="66%" align="left" valign="middle">
 
-<h1 align="left">Sungik Cho</h1>
+<h1>Sungik Cho</h1>
 
-<p align="left">
+<p>
   Building useful systems with clarity, structure, and strong execution.
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1400&color=6B7280&vCenter=true&width=500&lines=Algorithm+%2F+Automation+%2F+Engineering;Simple+work.+Strong+impact.;Less+noise%2C+more+substance." alt="typing"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3200&pause=1400&color=6B7280&vCenter=true&width=480&lines=Algorithm+%2F+Automation+%2F+Engineering;Simple+work.+Strong+impact.;Less+noise%2C+more+substance." alt="typing"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github&theme=light" />
-</p>
+<br/><br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures-111111?style=flat-square&logo=gitbook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=flat-square&logo=hackerrank&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,git,github&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data_Structures-111111?style=flat-square&logo=gitbook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=flat-square&logo=hackerrank&logoColor=white"/>
 
 </td>
 </tr>
@@ -76,6 +73,20 @@
 
 <br/>
 
+<div align="center">
+
+<a href="https://github.com/whtjddlr/PJT01">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&hide_border=false&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb"/>
+</a>
+
+<a href="https://github.com/whtjddlr">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&hide_border=false&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=ffffff&border_color=e5e7eb&rank_icon=github"/>
+</a>
+
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f3f4f6,50:dbeafe,100:f3f4f6&height=2&section=header" width="94%"/>
 </p>
@@ -100,11 +111,11 @@
 
 <br/>
 
-## Contribution Snake
+## Contribution Game
 
 <div align="center">
 
-<img width="92%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img width="92%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 
 </div>
 
@@ -128,7 +139,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="130" alt="pixel dinosaur footer"/>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="150" alt="pixel dinosaur footer"/>
 
 </div>
 
