@@ -1,43 +1,9 @@
 <div align="center">
 
-<h1>Sungik Cho</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=0,1,3&height=300&section=header&text=SUNGIK%20CHO&fontSize=80&fontAlignY=35&desc=Algorithm%20%7C%20Automation%20%7C%20Python%20Developer&descSize=20&descAlignY=55&animation=twinkling&fontColor=FFD54A"/>
 
-<p>
-Building systems with clarity and structure.
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-contribution-grid-snake.svg" width="92%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-## Projects
-
-<div align="center">
-
-<a href="https://github.com/whtjddlr/notion-to-github">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/whtjddlr/PJT01">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/whtjddlr">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFD54A&center=true&vCenter=true&width=1000&lines=🕹️+INSERT+COIN+TO+START;⚡+Algorithm+%7C+Automation+%7C+Engineering;🚀+Less+Noise%2C+More+Substance" alt="Typing SVG" />
 </a>
 
 </div>
@@ -46,20 +12,24 @@ Building systems with clarity and structure.
 
 <div align="center">
 
-<a href="https://github.com/whtjddlr/CodeTree">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&theme=tokyonight&hide_border=true"/>
-</a>
+## 🌟 About Me
 
-<a href="https://github.com/whtjddlr/TIL">
-<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&theme=tokyonight&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 💡 Philosophy
 
-<br/>
-
-<div align="center">
-
-<img width="92%" src="./github-metrics.svg"/>
-
-</div>
+```python
+# Developer Profile
+class Sungik:
+    def __init__(self):
+        self.name = "Sungik Cho"
+        self.mindset = "Clarity & Structure"
+        self.motto = "Simple work, Strong impact"
+        
+        self.passion = [
+            "Efficient Algorithms",
+            "System Automation",
+            "Minimalist Design"
+        ]
