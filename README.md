@@ -55,7 +55,7 @@ Building useful systems with clarity and structure.
 
 <div align="center">
   <a href="https://solved.ac/profile/choim2013">
-    <img src="https://mazassumnida.wtf/api/v1/generate_badge?boj=choim2013" alt="Solved.ac Profile" />
+    <img src="https://github-readme-solvedac.vercel.app/api/?handle=choim2013" alt="Solved.ac Profile" />
   </a>
 </div>
 
@@ -67,15 +67,11 @@ Building useful systems with clarity and structure.
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
 
 </div>
 
-<br/>
-
 <div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000"/>
 
