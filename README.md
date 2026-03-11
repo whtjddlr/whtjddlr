@@ -30,10 +30,19 @@ Building useful systems with clarity and structure.
 
 <br/>
 
-## Tech Stack
+## Tech Stack & Focus
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=light" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="color: #6B7280; font-family: 'Inter', sans-serif; font-size: 14px;">🎯 Currently Focusing On</p>
+  <img src="https://img.shields.io/badge/Data_Structures-111111?style=flat-square&logo=gitbook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=flat-square&logo=hackerrank&logoColor=white"/>
 </div>
 
 <br/>
