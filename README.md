@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=16A34A&center=true&vCenter=true&width=820&lines=Keeping+the+snake+well+fed+with+Python+commits;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=16A34A&center=true&vCenter=true&width=820&lines=Keeping+the+snake+well+fed+with+Python+commits;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img width="92%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-contribution-grid-snake.svg?v=7" alt="Snake animation"/>
+<img width="92%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-contribution-grid-snake.svg?v=7"/>
 
 </div>
 
@@ -31,6 +31,8 @@
 </div>
 
 <br/>
+
+## GitHub Stats
 
 <div align="center">
 
@@ -84,21 +86,13 @@
 
 <br/>
 
-## Now Playing
+## 🎧 Now Playing
 
 <div align="center">
 
-<img width="72%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edeh4lprfnr4cf4hg2leqsma64&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=22C55E&bar_color_cover=false" alt="Spotify Now Playing"/>
+<img width="72%" src="https://spotify-readme.vercel.app/api?user=31edeh4lprfnr4cf4hg2leqsma64" />
 
 </div>
-
-<br/>
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [SSAFY 15기 비전공자 한 달차 솔직 리포트 &lpar;feat . 8명의 천사들의 SSAFY 후기&rpar;](https://blog.naver.com/solist-/224195058217?fromRss=true&trackingCode=rss)
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -112,7 +106,7 @@
 
 <div align="center">
 
-<img width="72%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+<img width="72%" src="./github-metrics.svg"/>
 
 </div>
 
