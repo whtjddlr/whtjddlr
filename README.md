@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img width="72%" src="https://spotify-readme.vercel.app/api?user=31edeh4lprfnr4cf4hg2leqsma64" />
+<img width="72%" src="https://spotify-readme.vercel.app/api?user=31edeh4lprfnr4cf4hg2leqsma64 />
 
 </div>
 
