@@ -11,13 +11,13 @@ Building useful systems with clarity and structure.
 </p>
 
 <p style="font-family: 'Inter', sans-serif; font-size: 14px;">
-  <a href="mailto:이메일주소@gmail.com" style="text-decoration: none; color: #6B7280;">
+  <a href="mailto:이메일주소@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/본인링크드인" style="text-decoration: none; color: #6B7280;">
+  <a href="https://linkedin.com/in/본인링크드인" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=2563EB" />
   </a>&nbsp;&nbsp;
-  <a href="블로그주소" style="text-decoration: none; color: #6B7280;">
+  <a href="블로그주소" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
@@ -46,9 +46,16 @@ Building useful systems with clarity and structure.
 
 <div align="center">
   <p style="color: #6B7280; font-family: 'Inter', sans-serif; font-size: 14px;">🎯 Currently Focusing On</p>
-  
-  <a href="https://solved.ac/choim2013">
-    <img src="http://mazassumnida.wtf/api/v1/generate_badge?boj=choim2013" alt="Solved.ac Profile" />
+  <img src="https://img.shields.io/badge/Data_Structures-111111?style=flat-square&logo=gitbook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=flat-square&logo=hackerrank&logoColor=white"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://solved.ac/profile/choim2013">
+    <img src="https://mazassumnida.wtf/api/v1/generate_badge?boj=choim2013" alt="Solved.ac Profile" />
   </a>
 </div>
 
@@ -80,6 +87,6 @@ Building useful systems with clarity and structure.
 
 <div align="center">
 
-<img width="90%" src="./github-metrics.svg"/>
+<img width="90%" src="./github-metrics.svg?v=1"/>
 
 </div>
