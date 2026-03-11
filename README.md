@@ -16,7 +16,6 @@
 
 <br/>
 
-## Contribution Snake
 
 <div align="center">
 
