@@ -10,6 +10,12 @@ Building useful systems with clarity and structure.
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1500&color=6B7280&center=true&vCenter=true&width=520&lines=Algorithm+%2F+Automation+%2F+Engineering;Simple+work.+Strong+impact.;Less+noise+more+substance."/>
 </p>
 
+<p>
+  <a href="mailto:이메일주소@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/본인링크드인"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="블로그주소"><img src="https://img.shields.io/badge/Blog-6B7280?style=flat-square&logo=hashnode&logoColor=white"/></a>
+</p>
+
 </div>
 
 <br/>
@@ -20,6 +26,14 @@ Building useful systems with clarity and structure.
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&hide_border=true&title_color=111111&text_color=6B7280&bg_color=00000000"/>
 
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=light" />
 </div>
 
 <br/>
