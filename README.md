@@ -10,10 +10,16 @@ Building useful systems with clarity and structure.
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1500&color=6B7280&center=true&vCenter=true&width=520&lines=Algorithm+%2F+Automation+%2F+Engineering;Simple+work.+Strong+impact.;Less+noise+more+substance."/>
 </p>
 
-<p>
-  <a href="mailto:이메일주소@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/본인링크드인"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="블로그주소"><img src="https://img.shields.io/badge/Blog-6B7280?style=flat-square&logo=hashnode&logoColor=white"/></a>
+<p style="font-family: 'Inter', sans-serif; font-size: 14px;">
+  <a href="mailto:이메일주소@gmail.com" style="text-decoration: none; color: #6B7280;">
+    <img src="https://img.shields.io/badge/-Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/본인링크드인" style="text-decoration: none; color: #6B7280;">
+    <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=2563EB" />
+  </a>&nbsp;&nbsp;
+  <a href="블로그주소" style="text-decoration: none; color: #6B7280;">
+    <img src="https://img.shields.io/badge/-Blog-111111?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -40,9 +46,10 @@ Building useful systems with clarity and structure.
 
 <div align="center">
   <p style="color: #6B7280; font-family: 'Inter', sans-serif; font-size: 14px;">🎯 Currently Focusing On</p>
-  <img src="https://img.shields.io/badge/Data_Structures-111111?style=flat-square&logo=gitbook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-6B7280?style=flat-square&logo=hackerrank&logoColor=white"/>
+  
+  <a href="https://solved.ac/본인백준아이디">
+    <img src="http://mazassumnida.wtf/api/v1/generate_badge?boj=본인백준아이디" alt="Solved.ac Profile" />
+  </a>
 </div>
 
 <br/>
