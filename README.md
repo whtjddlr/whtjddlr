@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img width="70%" src="./github-metrics.svg" alt="GitHub Metrics" />
+<img width="68%" src="./github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
