@@ -15,5 +15,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "YOUR_BLOG_RSS"
+          feed_list: "https://rss.blog.naver.com/solist-.xml"
           commit_message: "Updated with the latest blog posts"
