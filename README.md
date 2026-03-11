@@ -88,9 +88,12 @@
 
 ## Metrics
 
+
 <div align="center">
 
-<img width="68%" src="./github-metrics.svg" alt="GitHub Metrics" />
+<img src="./github-metrics.svg" style="max-width:650px; width:80%;" />
+
+</div>
 
 </div>
 
