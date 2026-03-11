@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img width="92%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img width="92%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-contribution-grid-snake.svg?v=7" alt="Snake animation"/>
 
 </div>
 
@@ -75,6 +75,29 @@
 </a>
 
 </div>
+
+<br/>
+
+<div align="center">
+<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+</div>
+
+<br/>
+
+## Now Playing
+
+<div align="center">
+
+<img width="72%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edeh4lprfnr4cf4hg2leqsma64&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=22C55E&bar_color_cover=false" alt="Spotify Now Playing"/>
+
+</div>
+
+<br/>
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
