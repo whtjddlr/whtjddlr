@@ -33,7 +33,7 @@ Building useful systems with clarity and structure.
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
 </div>
 
 <br/>
