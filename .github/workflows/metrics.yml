@@ -33,7 +33,7 @@ jobs:
           plugin_languages_recent_categories: programming
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
           plugin_followup: yes
           plugin_followup_sections: repositories, user
