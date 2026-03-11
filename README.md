@@ -1,17 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:transparent,100:transparent&height=220&section=header&text=SUNGIK%20CHO&fontSize=56&fontColor=166534&fontAlignY=42&desc=Keeping%20the%20snake%20well%20fed%20with%20Python%20commits.&descSize=18&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=220&section=header&text=SUNGIK%20CHO&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Keeping%20the%20snake%20well%20fed%20with%20Python%20commits.&descSize=18&descAlignY=62"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=16A34A&center=true&vCenter=true&width=820&lines=Keeping+the+snake+well+fed+with+Python+commits;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=820&lines=Keeping+the+snake+well+fed+with+Python+commits;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" />
 
-</div>
-
-<br/>
-
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E&bgColor=transparent" />
 </div>
 
 <br/>
@@ -26,24 +20,14 @@
 
 <br/>
 
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E&bgColor=transparent" />
-</div>
-
-<br/>
+## Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&hide_border=false&bg_color=transparent&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&hide_border=false&bg_color=transparent&title_color=166534&text_color=15803D&border_color=DCFCE7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&theme=transparent&hide_border=true"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E&bgColor=transparent" />
 </div>
 
 <br/>
@@ -53,11 +37,11 @@
 <div align="center">
 
 <a href="https://github.com/whtjddlr/notion-to-github">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&hide_border=false&bg_color=transparent&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&theme=transparent&hide_border=true"/>
 </a>
 
 <a href="https://github.com/whtjddlr/PJT01">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&hide_border=false&bg_color=transparent&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&theme=transparent&hide_border=true"/>
 </a>
 
 </div>
@@ -67,19 +51,13 @@
 <div align="center">
 
 <a href="https://github.com/whtjddlr/CodeTree">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=false&bg_color=transparent&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&theme=transparent&hide_border=true"/>
 </a>
 
 <a href="https://github.com/whtjddlr/TIL">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&hide_border=false&bg_color=transparent&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&theme=transparent&hide_border=true"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E&bgColor=transparent" />
 </div>
 
 <br/>
@@ -97,14 +75,8 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SSAFY 15기 비전공자 한 달차 솔직 리포트 &lpar;feat . 8명의 천사들의 SSAFY 후기&rpar;](https://blog.naver.com/solist-/224195058217?fromRss=true&trackingCode=rss)
+- [SSAFY 15기 비전공자 한 달차 솔직 리포트 (feat . 8명의 천사들의 SSAFY 후기)](https://blog.naver.com/solist-/224195058217?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E&bgColor=transparent" />
-</div>
 
 <br/>
 
@@ -116,8 +88,10 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:transparent,100:transparent&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=90&section=footer"/>
 
 </div>
