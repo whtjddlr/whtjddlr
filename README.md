@@ -1,3 +1,10 @@
+
+<div align="center">
+
+<img width="700" src="./Sung_ik_cho______github___.gif"/>
+
+</div>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F7FFF9,100:ECFDF5&height=220&section=header&text=SUNGIK%20CHO&fontSize=56&fontColor=166534&fontAlignY=42&desc=Keeping%20the%20snake%20well%20fed%20with%20Python%20commits.&descSize=18&descAlignY=62"/>
