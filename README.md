@@ -96,6 +96,7 @@
 
 
 </div>
+
 ## Now Playing
 
 <div align="center">
