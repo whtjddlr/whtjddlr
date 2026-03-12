@@ -1,4 +1,3 @@
-## Dino Game
 
 <div align="center">
 
