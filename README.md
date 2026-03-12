@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img width="700" src="./green.gif"/>
+<img width="700" src="./blue.gif"/>
 
 
 </div>
