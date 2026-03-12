@@ -85,13 +85,6 @@
 </div>
 
 <br/>
-## Dino Game
-
-<div align="center">
-
-<img width="700" src="https://private-user-images.githubusercontent.com/117360950/561662463-6edaf554-d5b9-4878-9a49-923bb784fb61.gif"/>
-
-</div>
 
 ## Now Playing
 
