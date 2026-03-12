@@ -1,8 +1,3 @@
-
-<div align="center">
-
-<img width="700" src="./Sung_ik_cho______github___.gif"/>
-
 </div>
 
 <div align="center">
