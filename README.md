@@ -109,6 +109,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SSAFYcial 기획 기사] 이 코드도 통역 되나요?](https://blog.naver.com/solist-/224234495402?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] AI가 혼자 PPT를 만든다고? AI 에이전트 이야기](https://blog.naver.com/solist-/224227443589?fromRss=true&trackingCode=rss)
 - [SSAFY 15기 비전공자 한 달차 솔직 리포트 &lpar;feat . 8명의 천사들의 SSAFY 후기&rpar;](https://blog.naver.com/solist-/224195058217?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
