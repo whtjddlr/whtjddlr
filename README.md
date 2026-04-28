@@ -109,6 +109,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[SSAFYcial 기획 기사] 이 코드도 통역 되나요? : 자주 뜨는 에러 번역 사전](https://blog.naver.com/solist-/224267591707?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] AI 에이전트를 제대로 쓰는 법 — 하네스 엔지니어링&lpar;Harness Engineering&rpar;이란?](https://blog.naver.com/solist-/224259717090?fromRss=true&trackingCode=rss)
 - [[SSAFYcial 기획 기사] 이 코드도 통역 되나요?](https://blog.naver.com/solist-/224234495402?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] AI가 혼자 PPT를 만든다고? AI 에이전트 이야기](https://blog.naver.com/solist-/224227443589?fromRss=true&trackingCode=rss)
