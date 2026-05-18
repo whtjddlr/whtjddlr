@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=whtjddlr&show_icons=true&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7&rank_icon=github
+          options: username=whtjddlr&show_icons=true&hide_border=true&title_color=111111&icon_color=2563EB&text_color=6B7280&bg_color=00000000
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,8 +27,40 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=whtjddlr&layout=compact&langs_count=6&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&border_color=DCFCE7
+          options: username=whtjddlr&layout=compact&langs_count=6&hide_border=true&title_color=111111&text_color=6B7280&bg_color=00000000
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin cards
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=notion-to-github&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-notion-to-github.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card PJT01
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=PJT01&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-pjt01.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card CodeTree
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=CodeTree&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-codetree.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card TIL
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=whtjddlr&repo=TIL&hide_border=true&title_color=111111&text_color=6B7280&icon_color=2563EB&bg_color=00000000
+          path: profile/pin-til.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

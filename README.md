@@ -1,107 +1,108 @@
+
+</div>
+
 <div align="center">
 
-<img width="100%" src="./profile/quest-board.svg" alt="Pixel Quest Board"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F7FFF9,100:ECFDF5&height=220&section=header&text=SUNGIK%20CHO&fontSize=56&fontColor=166534&fontAlignY=42&desc=Keeping%20the%20snake%20well%20fed%20with%20Python%20commits.&descSize=18&descAlignY=62"/>
 
 <br/>
-<br/>
 
-<sub>
-Small quests, steady commits, and practical automation.
-</sub>
-
-<br/>
-<br/>
-
-<code>Python</code>
-<code>Algorithms</code>
-<code>Automation</code>
-<code>AI Workflow</code>
-<code>SSAFY</code>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=16A34A&center=true&vCenter=true&width=820&lines=Keeping+the+snake+well+fed+with+Python+commits;Problem+solving+and+clean+execution;Python+%7C+GitHub+%7C+Automation" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## Quest Log
-
-```txt
-> booting daily_quest.exe
-> player: sungik
-> mode: learn by building
-> current stack: python / github actions / small useful tools
-```
-
-<table>
-  <tr>
-    <td width="33%"><strong>Daily Problem</strong><br/><sub>Keep problem-solving muscles awake.</sub></td>
-    <td width="33%"><strong>Useful Automation</strong><br/><sub>Turn repeated work into tiny tools.</sub></td>
-    <td width="33%"><strong>Learning Trace</strong><br/><sub>Leave notes, commits, and blog posts behind.</sub></td>
-  </tr>
-</table>
+<div align="center">
+<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+</div>
 
 <br/>
 
-## Arcade Break
-
 <div align="center">
 
-<img width="72%" src="./green.gif" alt="Pixel arcade coding animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake.svg" alt="Snake animation"/>
+</picture>
 
 </div>
 
 <br/>
 
-## Skill Garden
+<div align="center">
+<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+</div>
+
+<br/>
 
 <div align="center">
 
-<img width="48%" src="./profile/stats.svg" alt="GitHub Stats"/>
-<img width="48%" src="./profile/top-langs.svg" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&border_color=DCFCE7"/>
 
 </div>
 
 <br/>
 
-## Project Board
+<div align="center">
+<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/whtjddlr/CodeTree"><strong>CodeTree</strong></a>
-      <br/>
-      <sub>Algorithm practice archive and Python problem solving.</sub>
-      <br/>
-      <br/>
-      <code>Python</code> <code>Algorithms</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge"><strong>Recycle_VQA_Challenge</strong></a>
-      <br/>
-      <sub>Vision-language experiments with a data-first workflow.</sub>
-      <br/>
-      <br/>
-      <code>Python</code> <code>VQA</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/whtjddlr/BBaru"><strong>BBaru</strong></a>
-      <br/>
-      <sub>TypeScript product work and fast iteration practice.</sub>
-      <br/>
-      <br/>
-      <code>TypeScript</code> <code>Product</code>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/whtjddlr/KOK"><strong>KOK</strong></a>
-      <br/>
-      <sub>A web app experiment for deployment and UI practice.</sub>
-      <br/>
-      <br/>
-      <code>TypeScript</code> <code>Vercel</code>
-    </td>
-  </tr>
-</table>
+<br/>
+
+## Projects
+
+<div align="center">
+
+<a href="https://github.com/whtjddlr/notion-to-github">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+</a>
+
+<a href="https://github.com/whtjddlr/PJT01">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/whtjddlr/CodeTree">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+</a>
+
+<a href="https://github.com/whtjddlr/TIL">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+</div>
+
+<br/>
+
+
+<div align="center">
+
+<img width="700" src="./blue.gif"/>
+
+
+</div>
+
+
+<div align="center">
+
+<img width="72%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edeh4lprfnr4cf4hg2leqsma64&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=22C55E&bar_color_cover=false" alt="Spotify Now Playing"/>
+
+</div>
 
 <br/>
 
@@ -117,10 +118,22 @@ Small quests, steady commits, and practical automation.
 
 <br/>
 
+<div align="center">
+<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+</div>
+
+<br/>
+
 ## Metrics
 
 <div align="center">
 
-<img width="76%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+<img width="72%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F7FFF9,100:ECFDF5&height=90&section=footer"/>
 
 </div>
