@@ -1,34 +1,45 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:064E3B,100:22C55E&height=240&section=header&text=SUNGIK%20CHO&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=Python%20Automation%20%7C%20AI%20Workflow%20%7C%20Clean%20Execution&descSize=17&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=Building+automation+that+actually+ships;Problem+solving+with+clean+execution;Python+%7C+GitHub+%7C+AI+Workflow" alt="Typing SVG" />
+<img width="100%" src="./profile/snake-banner.svg" alt="Commit Snake Garden"/>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22C55E" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=22C55E" alt="Automation"/>
+<sub>
+Python, GitHub Actions, automation, and little commits for a very hungry contribution snake.
+</sub>
 
 <br/>
 <br/>
 
-<strong>Developer focused on practical automation, steady problem solving, and AI-assisted workflows.</strong>
+<code>Python</code>
+<code>Automation</code>
+<code>Problem Solving</code>
+<code>AI Workflow</code>
+<code>SSAFY</code>
 
 </div>
 
 <br/>
+
+## Commit Snake
 
 <div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
+
+<br/>
+
+<sub>Every green square is a snack. The snake gets happier when the garden grows.</sub>
+
 </div>
 
 <br/>
 
-## Developer Dashboard
+## Snack Counter
 
 <div align="center">
 
@@ -39,69 +50,46 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <img width="100%" src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph"/>
-</picture>
-
-<br/>
-
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
-</div>
-
-<br/>
-
-## Projects
+## Little Project Shelf
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/whtjddlr/CodeTree"><strong>CodeTree</strong></a>
       <br/>
-      <sub>Algorithm practice archive built around steady Python problem solving.</sub>
+      <sub>Daily algorithm bites and Python problem solving.</sub>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E" alt="Python"/>
-      <img src="https://img.shields.io/badge/Algorithms-0F172A?style=flat-square&logo=codeforces&logoColor=22C55E" alt="Algorithms"/>
+      <code>Python</code> <code>Algorithms</code>
     </td>
     <td width="50%">
       <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge"><strong>Recycle_VQA_Challenge</strong></a>
       <br/>
-      <sub>Vision-language challenge work with Python and data-focused experimentation.</sub>
+      <sub>Vision-language experiments with a data-first workflow.</sub>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E" alt="Python"/>
-      <img src="https://img.shields.io/badge/VQA-0F172A?style=flat-square&logo=opencv&logoColor=38BDF8" alt="VQA"/>
+      <code>Python</code> <code>VQA</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/whtjddlr/BBaru"><strong>BBaru</strong></a>
       <br/>
-      <sub>TypeScript project work with a clean product-building workflow.</sub>
+      <sub>TypeScript product work and fast iteration practice.</sub>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Product-0F172A?style=flat-square&logo=vercel&logoColor=F8FAFC" alt="Product"/>
+      <code>TypeScript</code> <code>Product</code>
     </td>
     <td width="50%">
       <a href="https://github.com/whtjddlr/KOK"><strong>KOK</strong></a>
       <br/>
-      <sub>TypeScript web app experiment for fast iteration and deployment practice.</sub>
+      <sub>A web app experiment for deployment and UI practice.</sub>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=F8FAFC" alt="Vercel"/>
+      <code>TypeScript</code> <code>Vercel</code>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
-</div>
 
 <br/>
 
@@ -117,30 +105,10 @@
 
 <br/>
 
-<div align="center">
-<img width="96%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=22C55E" />
-</div>
-
-<br/>
-
-## Metrics
+## Garden Metrics
 
 <div align="center">
 
 <img width="76%" src="./github-metrics.svg" alt="GitHub Metrics"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="72%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edeh4lprfnr4cf4hg2leqsma64&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=22C55E&bar_color_cover=false" alt="Spotify Now Playing"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,55:064E3B,100:020617&height=110&section=footer"/>
 
 </div>
