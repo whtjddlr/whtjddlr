@@ -39,9 +39,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=whtjddlr&show_icons=true&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7&rank_icon=github"/>
+<img width="48%" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtjddlr&layout=compact&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&border_color=DCFCE7"/>
+<img width="48%" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -57,12 +57,12 @@
 
 <div align="center">
 
-<a href="https://github.com/whtjddlr/notion-to-github">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=notion-to-github&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<a href="https://github.com/whtjddlr/BBaru">
+<img width="48%" src="./profile/project-bbaru.svg" alt="BBaru Repository Card"/>
 </a>
 
-<a href="https://github.com/whtjddlr/PJT01">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=PJT01&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">
+<img width="48%" src="./profile/project-recycle-vqa.svg" alt="Recycle VQA Challenge Repository Card"/>
 </a>
 
 </div>
@@ -72,11 +72,11 @@
 <div align="center">
 
 <a href="https://github.com/whtjddlr/CodeTree">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=CodeTree&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<img width="48%" src="./profile/project-codetree.svg" alt="CodeTree Repository Card"/>
 </a>
 
-<a href="https://github.com/whtjddlr/TIL">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=whtjddlr&repo=TIL&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7"/>
+<a href="https://github.com/whtjddlr/KOK">
+<img width="48%" src="./profile/project-kok.svg" alt="KOK Repository Card"/>
 </a>
 
 </div>
