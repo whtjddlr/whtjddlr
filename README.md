@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="./profile/snake-banner.svg" alt="Commit Snake Garden"/>
+<img width="100%" src="./profile/quest-board.svg" alt="Pixel Quest Board"/>
 
 <br/>
 <br/>
 
 <sub>
-Python, GitHub Actions, automation, and little commits for a very hungry contribution snake.
+Small quests, steady commits, and practical automation.
 </sub>
 
 <br/>
 <br/>
 
 <code>Python</code>
+<code>Algorithms</code>
 <code>Automation</code>
-<code>Problem Solving</code>
 <code>AI Workflow</code>
 <code>SSAFY</code>
 
@@ -22,32 +22,36 @@ Python, GitHub Actions, automation, and little commits for a very hungry contrib
 
 <br/>
 
+## Quest Log
+
+```txt
+> booting daily_quest.exe
+> player: sungik
+> mode: learn by building
+> current stack: python / github actions / small useful tools
+```
+
+<table>
+  <tr>
+    <td width="33%"><strong>Daily Problem</strong><br/><sub>Keep problem-solving muscles awake.</sub></td>
+    <td width="33%"><strong>Useful Automation</strong><br/><sub>Turn repeated work into tiny tools.</sub></td>
+    <td width="33%"><strong>Learning Trace</strong><br/><sub>Leave notes, commits, and blog posts behind.</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+## Arcade Break
+
 <div align="center">
 
-<img width="88%" src="./profile/snake-status.svg" alt="Snake Status"/>
+<img width="72%" src="./green.gif" alt="Pixel arcade coding animation"/>
 
 </div>
 
 <br/>
 
-## Commit Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake.svg" alt="Snake eating my contribution graph"/>
-</picture>
-
-<br/>
-
-<sub>Every green square is a snack. The snake gets happier when the garden grows.</sub>
-
-</div>
-
-<br/>
-
-## Snack HUD
+## Skill Garden
 
 <div align="center">
 
@@ -58,27 +62,14 @@ Python, GitHub Actions, automation, and little commits for a very hungry contrib
 
 <br/>
 
-## Snack Menu
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Python jelly</strong><br/><sub>algorithm commits</sub></td>
-    <td align="center" width="25%"><strong>Action cookie</strong><br/><sub>automation runs</sub></td>
-    <td align="center" width="25%"><strong>Bug candy</strong><br/><sub>tiny fixes</sub></td>
-    <td align="center" width="25%"><strong>Blog leaf</strong><br/><sub>writing days</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-## Little Project Shelf
+## Project Board
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/whtjddlr/CodeTree"><strong>CodeTree</strong></a>
       <br/>
-      <sub>Daily algorithm bites and Python problem solving.</sub>
+      <sub>Algorithm practice archive and Python problem solving.</sub>
       <br/>
       <br/>
       <code>Python</code> <code>Algorithms</code>
@@ -126,7 +117,7 @@ Python, GitHub Actions, automation, and little commits for a very hungry contrib
 
 <br/>
 
-## Garden Metrics
+## Metrics
 
 <div align="center">
 
