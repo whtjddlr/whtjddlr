@@ -22,6 +22,14 @@ Python, GitHub Actions, automation, and little commits for a very hungry contrib
 
 <br/>
 
+<div align="center">
+
+<img width="88%" src="./profile/snake-status.svg" alt="Snake Status"/>
+
+</div>
+
+<br/>
+
 ## Commit Snake
 
 <div align="center">
@@ -39,7 +47,7 @@ Python, GitHub Actions, automation, and little commits for a very hungry contrib
 
 <br/>
 
-## Snack Counter
+## Snack HUD
 
 <div align="center">
 
@@ -47,6 +55,19 @@ Python, GitHub Actions, automation, and little commits for a very hungry contrib
 <img width="48%" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
+
+<br/>
+
+## Snack Menu
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Python jelly</strong><br/><sub>algorithm commits</sub></td>
+    <td align="center" width="25%"><strong>Action cookie</strong><br/><sub>automation runs</sub></td>
+    <td align="center" width="25%"><strong>Bug candy</strong><br/><sub>tiny fixes</sub></td>
+    <td align="center" width="25%"><strong>Blog leaf</strong><br/><sub>writing days</sub></td>
+  </tr>
+</table>
 
 <br/>
 

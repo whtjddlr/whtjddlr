@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Sungik Cho commit snake banner</title>
   <desc id="desc">A soft green developer banner with a cute snake eating commit squares.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f0fdf4"/>
-      <stop offset="52%" stop-color="#dcfce7"/>
-      <stop offset="100%" stop-color="#bbf7d0"/>
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="48%" stop-color="#d1fae5"/>
+      <stop offset="100%" stop-color="#a7f3d0"/>
     </linearGradient>
     <linearGradient id="snake" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#86efac"/>
@@ -13,50 +13,57 @@
       <stop offset="100%" stop-color="#16a34a"/>
     </linearGradient>
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#14532d" flood-opacity="0.16"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#14532d" flood-opacity="0.18"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="280" rx="34" fill="url(#bg)"/>
-  <rect x="18" y="18" width="1164" height="244" rx="26" fill="#ffffff" opacity="0.54"/>
+  <rect width="1200" height="320" rx="38" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="284" rx="30" fill="#ffffff" opacity="0.62"/>
+  <rect x="42" y="42" width="1116" height="236" rx="26" fill="none" stroke="#86efac" stroke-width="3" stroke-dasharray="10 12" opacity="0.75"/>
 
-  <g opacity="0.55">
-    <rect x="74" y="218" width="18" height="18" rx="5" fill="#86efac"/>
-    <rect x="100" y="218" width="18" height="18" rx="5" fill="#bbf7d0"/>
-    <rect x="126" y="218" width="18" height="18" rx="5" fill="#22c55e"/>
-    <rect x="152" y="218" width="18" height="18" rx="5" fill="#dcfce7"/>
-    <rect x="178" y="218" width="18" height="18" rx="5" fill="#86efac"/>
-    <rect x="204" y="218" width="18" height="18" rx="5" fill="#bbf7d0"/>
-    <rect x="230" y="218" width="18" height="18" rx="5" fill="#22c55e"/>
-    <rect x="256" y="218" width="18" height="18" rx="5" fill="#dcfce7"/>
+  <g opacity="0.62">
+    <rect x="74" y="234" width="18" height="18" rx="5" fill="#86efac"/>
+    <rect x="100" y="234" width="18" height="18" rx="5" fill="#bbf7d0"/>
+    <rect x="126" y="234" width="18" height="18" rx="5" fill="#22c55e"/>
+    <rect x="152" y="234" width="18" height="18" rx="5" fill="#dcfce7"/>
+    <rect x="178" y="234" width="18" height="18" rx="5" fill="#86efac"/>
+    <rect x="204" y="234" width="18" height="18" rx="5" fill="#bbf7d0"/>
+    <rect x="230" y="234" width="18" height="18" rx="5" fill="#22c55e"/>
+    <rect x="256" y="234" width="18" height="18" rx="5" fill="#dcfce7"/>
+    <rect x="282" y="234" width="18" height="18" rx="5" fill="#4ade80"/>
+    <rect x="308" y="234" width="18" height="18" rx="5" fill="#bbf7d0"/>
   </g>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="72" y="88" font-size="22" font-weight="700" fill="#16a34a" letter-spacing="2">COMMIT SNAKE GARDEN</text>
-    <text x="70" y="150" font-size="58" font-weight="800" fill="#052e16">SUNGIK CHO</text>
-    <text x="74" y="190" font-size="22" font-weight="600" fill="#166534">feeding the snake with Python, automation, and tiny daily commits</text>
+    <text x="72" y="90" font-size="22" font-weight="800" fill="#16a34a">COMMIT SNAKE GARDEN</text>
+    <text x="70" y="154" font-size="62" font-weight="850" fill="#052e16">SUNGIK CHO</text>
+    <text x="74" y="196" font-size="23" font-weight="650" fill="#166534">feeding a tiny snake with Python, automation, and daily green squares</text>
+    <rect x="74" y="216" width="246" height="34" rx="17" fill="#052e16"/>
+    <text x="94" y="239" font-size="16" font-weight="800" fill="#bbf7d0">snake mood: well fed</text>
   </g>
 
-  <g transform="translate(805 52)" filter="url(#softShadow)">
-    <rect x="2" y="154" width="46" height="46" rx="12" fill="#dcfce7"/>
-    <rect x="58" y="154" width="46" height="46" rx="12" fill="#bbf7d0"/>
-    <rect x="114" y="154" width="46" height="46" rx="12" fill="#86efac"/>
-    <rect x="170" y="154" width="46" height="46" rx="12" fill="#22c55e"/>
-    <rect x="226" y="154" width="46" height="46" rx="12" fill="#16a34a"/>
+  <g transform="translate(790 58)" filter="url(#softShadow)">
+    <rect x="2" y="176" width="46" height="46" rx="12" fill="#dcfce7"/>
+    <rect x="58" y="176" width="46" height="46" rx="12" fill="#bbf7d0"/>
+    <rect x="114" y="176" width="46" height="46" rx="12" fill="#86efac"/>
+    <rect x="170" y="176" width="46" height="46" rx="12" fill="#22c55e"/>
+    <rect x="226" y="176" width="46" height="46" rx="12" fill="#16a34a"/>
 
-    <rect x="64" y="104" width="46" height="46" rx="12" fill="#dcfce7"/>
-    <rect x="120" y="104" width="46" height="46" rx="12" fill="#bbf7d0"/>
-    <rect x="176" y="104" width="46" height="46" rx="12" fill="#86efac"/>
+    <rect x="64" y="126" width="46" height="46" rx="12" fill="#dcfce7"/>
+    <rect x="120" y="126" width="46" height="46" rx="12" fill="#bbf7d0"/>
+    <rect x="176" y="126" width="46" height="46" rx="12" fill="#86efac"/>
 
-    <path d="M18 112 C58 60 118 68 150 116 C174 154 230 138 260 92" fill="none" stroke="url(#snake)" stroke-width="34" stroke-linecap="round"/>
-    <circle cx="268" cy="86" r="30" fill="#16a34a"/>
-    <circle cx="258" cy="78" r="5" fill="#052e16"/>
-    <circle cx="280" cy="76" r="5" fill="#052e16"/>
-    <path d="M294 88 C308 82 315 82 326 88" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round"/>
-    <path d="M326 88 L336 81 M326 88 L337 96" fill="none" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+    <path d="M18 134 C58 82 118 90 150 138 C174 176 230 160 260 114" fill="none" stroke="url(#snake)" stroke-width="34" stroke-linecap="round"/>
+    <circle cx="268" cy="108" r="30" fill="#16a34a"/>
+    <circle cx="258" cy="100" r="5" fill="#052e16"/>
+    <circle cx="280" cy="98" r="5" fill="#052e16"/>
+    <path d="M294 110 C308 104 315 104 326 110" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round"/>
+    <path d="M326 110 L336 103 M326 110 L337 118" fill="none" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="318" cy="58" r="18" fill="#bbf7d0"/>
+    <text x="307" y="64" font-family="Inter, ui-sans-serif, system-ui" font-size="16" font-weight="900" fill="#166534">+1</text>
   </g>
 
   <g font-family="Fira Code, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#14532d" opacity="0.72">
-    <text x="900" y="232">git commit -m "snack"</text>
+    <text x="894" y="272">git commit -m "feed snake"</text>
   </g>
 </svg>
