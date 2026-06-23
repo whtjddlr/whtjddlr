@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[KOK](https://github.com/whtjddlr/KOK) · [Recycle VQA](https://github.com/whtjddlr/Recycle_VQA_Challenge) · [BBaru](https://github.com/whtjddlr/BBaru) · [CodeTree](https://github.com/whtjddlr/CodeTree) · [togetAI](https://github.com/whtjddlr/togetAI) · [godlife-quest-pet](https://github.com/whtjddlr/godlife-quest-pet) · [coinsoup](https://github.com/whtjddlr/coinsoup) · [TIL](https://github.com/whtjddlr/TIL)
+[HEOGAONv3](https://github.com/whtjddlr/HEOGAONv3) · [KOK](https://github.com/whtjddlr/KOK) · [Recycle VQA](https://github.com/whtjddlr/Recycle_VQA_Challenge) · [BBaru](https://github.com/whtjddlr/BBaru) · [CodeTree](https://github.com/whtjddlr/CodeTree) · [togetAI](https://github.com/whtjddlr/togetAI) · [godlife-quest-pet](https://github.com/whtjddlr/godlife-quest-pet) · [coinsoup](https://github.com/whtjddlr/coinsoup) · [TIL](https://github.com/whtjddlr/TIL)
 
 <sub>▶ <a href="https://kok-meet.vercel.app/">KOK 데모</a> &nbsp;·&nbsp; <a href="https://github.com/whtjddlr?tab=repositories">전체 저장소</a></sub>
 
