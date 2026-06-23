@@ -1,12 +1,45 @@
-<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">KOK repository card</title>
-  <desc id="desc">TypeScript web app project card.</desc>
-  <rect x="0.5" y="0.5" width="399" height="119" rx="8" fill="#ffffff" stroke="#DCFCE7"/>
-  <circle cx="31" cy="35" r="9" fill="#22C55E"/>
-  <path d="M27 34h8v6h-8zM29 31h4" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="52" y="41" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700" fill="#166534">KOK</text>
-  <text x="25" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#15803D">TypeScript web app experiment and deployment practice.</text>
-  <circle cx="30" cy="96" r="5" fill="#3178C6"/>
-  <text x="42" y="100" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#166534">TypeScript</text>
-  <text x="130" y="100" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#16A34A">web app</text>
+<svg width="1200" height="290" viewBox="0 0 1200 290" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">KOK project card</title>
+  <desc id="desc">Editorial project card for KOK, a realtime meeting-place planner.</desc>
+  <rect width="1200" height="290" rx="18" fill="#FAF9F3"/>
+  <rect x="1" y="1" width="1198" height="288" rx="17" stroke="#D7DDD2" stroke-width="2"/>
+  <text x="42" y="72" font-family="Consolas, Monaco, monospace" font-size="32" font-weight="800" fill="#31572C">04</text>
+  <rect x="110" y="44" width="198" height="198" rx="10" fill="#111111"/>
+  <text x="209" y="156" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="70" font-weight="900" fill="#FAF9F3">KOK</text>
+  <circle cx="148" cy="194" r="7" fill="#31572C"/>
+  <circle cx="209" cy="194" r="7" fill="#31572C"/>
+  <circle cx="270" cy="194" r="7" fill="#31572C"/>
+  <path d="M148 194H270" stroke="#31572C" stroke-width="4"/>
+  <text x="110" y="264" font-family="Consolas, Monaco, monospace" font-size="13" font-weight="800" fill="#31572C">REALTIME / MAP / DRAW</text>
+
+  <text x="354" y="88" font-family="Arial Black, Impact, sans-serif" font-size="46" font-weight="900" fill="#111111">KOK</text>
+  <text x="354" y="132" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#111111">A realtime planner for shared starting points,</text>
+  <text x="354" y="162" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#111111">route comparison, and a live place draw.</text>
+  <rect x="354" y="188" width="48" height="5" fill="#31572C"/>
+  <text x="354" y="228" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4B5563">Fair plans, shared screens, less friction.</text>
+
+  <g transform="translate(354 246)">
+    <rect width="72" height="24" rx="5" fill="#FFFFFF" stroke="#D7DDD2"/>
+    <text x="36" y="16" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="11" font-weight="800" fill="#31572C">REACT</text>
+    <rect x="82" width="112" height="24" rx="5" fill="#FFFFFF" stroke="#D7DDD2"/>
+    <text x="138" y="16" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="11" font-weight="800" fill="#31572C">TYPESCRIPT</text>
+    <rect x="204" width="94" height="24" rx="5" fill="#FFFFFF" stroke="#D7DDD2"/>
+    <text x="251" y="16" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="11" font-weight="800" fill="#31572C">SUPABASE</text>
+    <rect x="308" width="116" height="24" rx="5" fill="#FFFFFF" stroke="#D7DDD2"/>
+    <text x="366" y="16" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="11" font-weight="800" fill="#31572C">NAVER MAPS</text>
+  </g>
+
+  <g transform="translate(886 48)">
+    <path d="M0 0H250" stroke="#D7DDD2" stroke-width="2"/>
+    <text x="0" y="39" font-family="Consolas, Monaco, monospace" font-size="14" font-weight="900" fill="#111111">TYPE</text>
+    <text x="92" y="39" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111111">Realtime web app</text>
+    <path d="M0 68H250" stroke="#D7DDD2" stroke-width="2"/>
+    <text x="0" y="107" font-family="Consolas, Monaco, monospace" font-size="14" font-weight="900" fill="#111111">LIVE</text>
+    <text x="92" y="107" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111111">kok-meet.vercel.app</text>
+    <path d="M0 136H250" stroke="#D7DDD2" stroke-width="2"/>
+    <text x="0" y="175" font-family="Consolas, Monaco, monospace" font-size="14" font-weight="900" fill="#111111">STACK</text>
+    <text x="92" y="175" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111111">React, Supabase,</text>
+    <text x="92" y="202" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111111">Naver Maps</text>
+    <path d="M0 226H250" stroke="#D7DDD2" stroke-width="2"/>
+  </g>
 </svg>
