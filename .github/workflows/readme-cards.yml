@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=whtjddlr&show_icons=true&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&icon_color=22C55E&border_color=DCFCE7&rank_icon=github
+          options: username=whtjddlr&show_icons=true&hide_border=false&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=31572C&border_color=D7DDD2&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=whtjddlr&layout=compact&langs_count=6&hide_border=false&bg_color=ffffff&title_color=166534&text_color=15803D&border_color=DCFCE7
+          options: username=whtjddlr&layout=compact&langs_count=6&hide_border=false&bg_color=ffffff&title_color=111827&text_color=374151&border_color=D7DDD2
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
