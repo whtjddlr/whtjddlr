@@ -1,36 +1,56 @@
-<div align="center">
-
-# Sungik Cho
-
-**Python, AI, automation, and product-minded development.**
-
-I like building small systems that make decisions clearer and work lighter.
-
-<a href="https://github.com/whtjddlr?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-111111?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-<a href="https://blog.naver.com/solist-">
-  <img src="https://img.shields.io/badge/Writing-31572C?style=flat-square" alt="Writing"/>
-</a>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20Data-31572C?style=flat-square" alt="AI and Data"/>
-
-</div>
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <h1>Sungik Cho</h1>
+      <h3>Python, AI, automation, and product-minded development.</h3>
+      <p>
+        I build small systems that make decisions clearer, work lighter,
+        and ideas easier to ship.
+      </p>
+      <p>
+        <a href="https://github.com/whtjddlr?tab=repositories">
+          <img src="https://img.shields.io/badge/Repositories-111111?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
+        </a>
+        <a href="https://blog.naver.com/solist-">
+          <img src="https://img.shields.io/badge/Writing-31572C?style=flat-square" alt="Writing"/>
+        </a>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/AI%20%2F%20Data-31572C?style=flat-square" alt="AI and Data"/>
+      </p>
+    </td>
+    <td width="36%" valign="top">
+      <h3>Focus</h3>
+      <p><strong>Build</strong><br/>Web apps, automation, practical AI tools</p>
+      <p><strong>Style</strong><br/>Quiet interfaces, clear systems, useful details</p>
+      <p><strong>Open to</strong><br/>Meaningful projects and sharp problems</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Live product</strong><br/>KOK</td>
+    <td align="center" width="25%"><strong>AI challenge</strong><br/>1st / 193 teams</td>
+    <td align="center" width="25%"><strong>Main language</strong><br/>Python</td>
+    <td align="center" width="25%"><strong>Working mode</strong><br/>Build, test, refine</td>
+  </tr>
+</table>
+
 ## Selected Work
+
+### 01. KOK
 
 <table>
   <tr>
-    <td width="52%" valign="top">
-      <a href="https://github.com/whtjddlr/KOK">
-        <img width="100%" src="./profile/shots/kok.png" alt="KOK app screenshot"/>
+    <td width="42%" valign="top">
+      <a href="https://kok-meet.vercel.app/">
+        <img width="100%" src="./profile/shots/kok-preview.png" alt="KOK app screenshot"/>
       </a>
     </td>
-    <td width="48%" valign="top">
-      <h3>KOK</h3>
+    <td width="58%" valign="top">
       <p>
         A realtime meeting-place planner where people share starting points,
         compare routes, and choose the final spot through a shared draw.
@@ -40,22 +60,24 @@ I like building small systems that make decisions clearer and work lighter.
         <code>Naver Maps</code>
       </p>
       <p>
-        <a href="https://github.com/whtjddlr/KOK">Repository</a> ·
+        <a href="https://github.com/whtjddlr/KOK">Repository</a>
+        &middot;
         <a href="https://kok-meet.vercel.app/">Live</a>
       </p>
     </td>
   </tr>
 </table>
 
+### 02. Recycle VQA Challenge
+
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="58%" valign="top">
       <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">
         <img width="100%" src="./profile/shots/recycle-vqa-leaderboard.png" alt="Recycle VQA private leaderboard screenshot"/>
       </a>
     </td>
-    <td width="48%" valign="top">
-      <h3>Recycle VQA Challenge</h3>
+    <td width="42%" valign="top">
       <p>
         A visual question answering solution for recycling images. Built for
         the SSAFY AI Challenge and ranked 1st among 193 teams.
@@ -98,9 +120,3 @@ I like building small systems that make decisions clearer and work lighter.
 <!-- BLOG-POST-LIST:END -->
 
 </details>
-
-<br/>
-
-<div align="center">
-  <img width="72%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edeh4lprfnr4cf4hg2leqsma64&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=31572C&bar_color_cover=false" alt="Spotify now playing"/>
-</div>
