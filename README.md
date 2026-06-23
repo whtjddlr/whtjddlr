@@ -86,12 +86,6 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake-dark.svg" alt="contribution snake"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 > 만드는 데서 멈추지 않고, 사용자에게 닿을 때까지 완성합니다.
 
