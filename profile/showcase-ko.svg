@@ -24,13 +24,13 @@
   <rect width="1600" height="560" rx="44" fill="url(#bg)"/>
 
   <text x="86" y="100" class="kicker">SELECTED WORK</text>
-  <text x="84" y="172" class="h">전부, 끝까지 간 작업입니다.</text>
-  <text x="88" y="222" class="p">라이브 제품 하나, 1위 모델 하나, 그리고 작은 도구들.</text>
+  <text x="84" y="172" class="h">완성까지 책임진 프로젝트들.</text>
+  <text x="88" y="222" class="p">운영 중인 서비스, 경진대회 1위 모델, 그리고 개인 도구들.</text>
 
   <g filter="url(#card)"><rect x="88" y="298" width="450" height="188" rx="34" fill="#FFFFFF"/></g>
   <text x="128" y="362" class="num">01</text>
   <text x="128" y="416" class="cardH">KOK</text>
-  <text x="128" y="456" class="cardP">실시간으로 약속 장소 정하기.</text>
+  <text x="128" y="456" class="cardP">실시간 약속 장소 결정 서비스.</text>
 
   <g filter="url(#card)"><rect x="574" y="298" width="450" height="188" rx="34" fill="#1D1D1F"/></g>
   <text x="614" y="362" class="num">02</text>
@@ -39,6 +39,6 @@
 
   <g filter="url(#card)"><rect x="1060" y="298" width="450" height="188" rx="34" fill="#FFFFFF"/></g>
   <text x="1100" y="362" class="num">03</text>
-  <text x="1100" y="416" class="cardH">작은 도구</text>
-  <text x="1100" y="456" class="cardP">ETA 계산기와 알고리즘 노트.</text>
+  <text x="1100" y="416" class="cardH">개인 도구</text>
+  <text x="1100" y="456" class="cardP">ETA 계산기 · 알고리즘 학습 기록.</text>
 </svg>
