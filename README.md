@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./profile/hero.svg" alt="Sungik Cho portfolio hero"/>
+  <img width="100%" src="./profile/hero-ko.svg" alt="Sungik Cho portfolio hero"/>
 </div>
 
 <br/>
@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="./profile/showcase.svg" alt="Selected work showcase"/>
+  <img width="100%" src="./profile/showcase-ko.svg" alt="Selected work showcase"/>
 </div>
 
 <br/>
