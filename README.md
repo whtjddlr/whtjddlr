@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<sup>PRODUCT ENGINEERING · AI EXPERIMENTS · QUIET EXECUTION</sup>
+<sup>제품 개발 · AI 실험 · 조용한 실행</sup>
 
 실제로 쓰이는 제품과 검증 가능한 AI 결과를 만듭니다.<br/>
 작게 시작하고, 끝까지 작동하게 만들고, 다시 단순하게 다듬습니다.
@@ -43,18 +43,18 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <sup>LIVE PRODUCT</sup>
+      <sup>제품</sup>
       <h3>KOK</h3>
       <p>약속 장소를 정하는 흐름을 더 가볍게.</p>
     </td>
     <td align="center" width="33%">
-      <sup>AI RESULT</sup>
-      <h3>1st / 193</h3>
-      <p>Recycle VQA private leaderboard.</p>
+      <sup>성과</sup>
+      <h3>1위 / 193팀</h3>
+      <p>Recycle VQA private 리더보드.</p>
     </td>
     <td align="center" width="33%">
-      <sup>WORK STYLE</sup>
-      <h3>Ship. Learn. Refine.</h3>
+      <sup>방식</sup>
+      <h3>만들고, 배우고, 다듬기</h3>
       <p>빠르게 만들고 조용히 개선합니다.</p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
 
 <br/>
 
-## Signature Work
+## 대표 작업
 
 <br/>
 
@@ -122,7 +122,7 @@
 
 <br/>
 
-## Small Things, Well Made
+## 작지만 완성도 있게
 
 <table>
   <tr>
@@ -143,13 +143,13 @@
 
 <br/>
 
-> Good software feels quiet.<br/>
-> It does the work, leaves fewer questions, and makes the next step feel natural.
+> 좋은 제품은 조용하게 느껴집니다.<br/>
+> 할 일을 해내고, 질문을 줄이고, 다음 행동을 자연스럽게 만듭니다.
 
 <br/>
 
 <details>
-  <summary>Latest writing</summary>
+  <summary>최근 글</summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [SSAFYcial writing archive](https://blog.naver.com/solist-/224298671341?fromRss=true&trackingCode=rss)

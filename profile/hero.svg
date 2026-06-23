@@ -17,15 +17,15 @@
       <feDropShadow dx="0" dy="34" stdDeviation="38" flood-color="#1F2937" flood-opacity="0.16"/>
     </filter>
     <style>
-      .eyebrow { font: 600 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 4px; fill: #6B7280; }
+      .eyebrow { font: 650 24px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: 3px; fill: #6B7280; }
       .title { font: 800 118px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -5px; fill: #111111; }
-      .headline { font: 650 46px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -1px; fill: #111111; }
-      .body { font: 400 30px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #626A73; }
-      .small { font: 500 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #73777D; }
-      .cardTitle { font: 750 38px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -1px; fill: #111111; }
-      .cardBody { font: 450 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #6B7280; }
-      .whiteTitle { font: 760 34px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #FFFFFF; }
-      .whiteBody { font: 430 23px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #D7D9DE; }
+      .headline { font: 720 54px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -2px; fill: #111111; }
+      .body { font: 430 30px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #626A73; }
+      .small { font: 650 23px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #73777D; }
+      .cardTitle { font: 780 38px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -1px; fill: #111111; }
+      .cardBody { font: 460 23px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #6B7280; }
+      .whiteTitle { font: 780 34px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #FFFFFF; }
+      .whiteBody { font: 450 22px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #D7D9DE; }
     </style>
   </defs>
 
@@ -34,11 +34,11 @@
   <path d="M80 655H1520" stroke="#D9DDE3" stroke-width="1"/>
   <path d="M80 105H1520" stroke="#E5E7EB" stroke-width="1"/>
 
-  <text x="92" y="164" class="eyebrow">PRODUCT ENGINEERING · AI EXPERIMENTS</text>
+  <text x="92" y="164" class="eyebrow">제품 개발 · AI 실험 · 조용한 실행</text>
   <text x="86" y="300" class="title">Sungik Cho</text>
-  <text x="92" y="382" class="headline">Make the complex feel obvious.</text>
-  <text x="94" y="446" class="body">I build practical products, quiet systems,</text>
-  <text x="94" y="488" class="body">and AI results that can be proven.</text>
+  <text x="92" y="382" class="headline">복잡함을 단순하게.</text>
+  <text x="94" y="446" class="body">실제로 쓰이는 제품과 검증 가능한</text>
+  <text x="94" y="488" class="body">AI 결과를 만듭니다.</text>
 
   <g transform="translate(94 552)">
     <rect x="0" y="0" width="126" height="48" rx="24" fill="#111111"/>
@@ -56,17 +56,17 @@
   </g>
 
   <rect x="926" y="186" width="528" height="122" rx="34" fill="url(#black)"/>
-  <text x="970" y="240" class="whiteTitle">Selected work</text>
-  <text x="970" y="278" class="whiteBody">Live product · AI challenge · steady systems</text>
+  <text x="970" y="240" class="whiteTitle">대표 작업</text>
+  <text x="970" y="278" class="whiteBody">제품 · AI · 꾸준한 실행</text>
 
   <rect x="926" y="346" width="250" height="208" rx="36" fill="#FFFFFF" stroke="#E2E5EA"/>
-  <text x="962" y="406" class="small">LIVE PRODUCT</text>
+  <text x="962" y="406" class="small">제품</text>
   <text x="962" y="462" class="cardTitle">KOK</text>
-  <text x="962" y="504" class="cardBody">Place planning</text>
+  <text x="962" y="504" class="cardBody">약속 장소 플래너</text>
 
   <rect x="1204" y="346" width="250" height="208" rx="36" fill="#FFFFFF" stroke="#E2E5EA"/>
-  <text x="1240" y="406" class="small">AI RESULT</text>
-  <text x="1240" y="462" class="cardTitle">1st / 193</text>
+  <text x="1240" y="406" class="small">성과</text>
+  <text x="1240" y="462" class="cardTitle">1위 / 193팀</text>
   <text x="1240" y="504" class="cardBody">Recycle VQA</text>
 
   <circle cx="1422" cy="224" r="17" fill="#A3B18A"/>
