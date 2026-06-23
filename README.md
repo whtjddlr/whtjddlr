@@ -38,11 +38,11 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [SSAFYcial writing archive](https://blog.naver.com/solist-/224298671341?fromRss=true&trackingCode=rss)
-- [AI coding agent article](https://blog.naver.com/solist-/224289030538?fromRss=true&trackingCode=rss)
-- [Code translation notes](https://blog.naver.com/solist-/224267591707?fromRss=true&trackingCode=rss)
-- [Harness engineering article](https://blog.naver.com/solist-/224259717090?fromRss=true&trackingCode=rss)
-- [SSAFYcial archive](https://blog.naver.com/solist-/224234495402?fromRss=true&trackingCode=rss)
+- [[SSAFYcial 기획 기사] 이 코드도 통역 되나요? : Git이 뭔데?](https://blog.naver.com/solist-/224298671341?fromRss=true&trackingCode=rss)
+- [[SSAFYcial] 요즘 개발자들은 어떤 AI 코딩 에이전트를 쓸까?](https://blog.naver.com/solist-/224289030538?fromRss=true&trackingCode=rss)
+- [[SSAFYcial 기획 기사] 이 코드도 통역 되나요? : 자주 뜨는 에러 번역 사전](https://blog.naver.com/solist-/224267591707?fromRss=true&trackingCode=rss)
+- [[SSAFYcial] AI 에이전트를 제대로 쓰는 법 — 하네스 엔지니어링&lpar;Harness Engineering&rpar;이란?](https://blog.naver.com/solist-/224259717090?fromRss=true&trackingCode=rss)
+- [[SSAFYcial 기획 기사] 이 코드도 통역 되나요?](https://blog.naver.com/solist-/224234495402?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
