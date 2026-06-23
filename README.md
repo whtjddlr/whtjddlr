@@ -1,32 +1,6 @@
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <h1>Sungik Cho</h1>
-      <h3>Python, AI, automation, and product-minded development.</h3>
-      <p>
-        I build small systems that make decisions clearer, work lighter,
-        and ideas easier to ship.
-      </p>
-      <p>
-        <a href="https://github.com/whtjddlr?tab=repositories">
-          <img src="https://img.shields.io/badge/Repositories-111111?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
-        </a>
-        <a href="https://blog.naver.com/solist-">
-          <img src="https://img.shields.io/badge/Writing-31572C?style=flat-square" alt="Writing"/>
-        </a>
-        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/AI%20%2F%20Data-31572C?style=flat-square" alt="AI and Data"/>
-      </p>
-    </td>
-    <td width="36%" valign="top">
-      <h3>Focus</h3>
-      <p><strong>Build</strong><br/>Web apps, automation, practical AI tools</p>
-      <p><strong>Style</strong><br/>Quiet interfaces, clear systems, useful details</p>
-      <p><strong>Open to</strong><br/>Meaningful projects and sharp problems</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" src="./profile/portfolio-cover.png" alt="Sungik Cho portfolio cover"/>
+</div>
 
 <br/>
 
