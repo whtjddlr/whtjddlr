@@ -1,12 +1,12 @@
+<div align="center">
+  <img width="100%" src="./profile/hero.svg" alt="Sungik Cho portfolio hero"/>
+</div>
+
 <br/>
 
 <div align="center">
 
 <sup>PRODUCT ENGINEERING · AI EXPERIMENTS · QUIET EXECUTION</sup>
-
-# Sungik Cho
-
-### Make the complex feel obvious.
 
 실제로 쓰이는 제품과 검증 가능한 AI 결과를 만듭니다.<br/>
 작게 시작하고, 끝까지 작동하게 만들고, 다시 단순하게 다듬습니다.
@@ -34,17 +34,8 @@
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-
-## Built for clarity.
-
-복잡한 지도 흐름, 실시간 상태, AI 실험을<br/>
-사용자가 이해할 수 있는 제품과 결과로 바꾸는 일을 좋아합니다.
-
+  <img width="100%" src="./profile/showcase.svg" alt="Selected work showcase"/>
 </div>
 
 <br/>
