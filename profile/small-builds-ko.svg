@@ -1,17 +1,17 @@
 <svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="430" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F3F6FC"/>
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EAEFF6"/>
     </linearGradient>
-    <linearGradient id="accentBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00C6FF"/><stop offset="1" stop-color="#0072FF"/></linearGradient>
-    <linearGradient id="accentGreen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34E89E"/><stop offset="1" stop-color="#0F9B6E"/></linearGradient>
-    <filter id="card" x="-15%" y="-15%" width="130%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#5B6478" flood-opacity="0.16"/></filter>
+    <linearGradient id="accentBlue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#1D6FE0"/></linearGradient>
+    <linearGradient id="accentTeal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
+    <filter id="card" x="-15%" y="-15%" width="130%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#1E2A3D" flood-opacity="0.18"/></filter>
     <style>
       text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; }
-      .kicker { font-size: 21px; font-weight: 700; letter-spacing: 1.5px; fill: #A24BFF; }
-      .title  { font-size: 44px; font-weight: 600; letter-spacing: -1px; fill: #1D1D1F; }
-      .h  { font-size: 36px; font-weight: 600; fill: #1D1D1F; }
-      .p  { font-size: 23px; font-weight: 400; fill: #5C6470; }
+      .kicker { font-size: 21px; font-weight: 700; letter-spacing: 1.5px; fill: #2563EB; }
+      .title  { font-size: 44px; font-weight: 600; letter-spacing: -1px; fill: #0F172A; }
+      .h  { font-size: 36px; font-weight: 600; fill: #0F172A; }
+      .p  { font-size: 23px; font-weight: 400; fill: #475569; }
       .chip { font-size: 18px; font-weight: 600; }
     </style>
   </defs>
@@ -24,12 +24,12 @@
   <rect x="88" y="212" width="12" height="142" rx="6" fill="url(#accentBlue)"/>
   <text x="140" y="270" class="h">BBaru</text>
   <text x="140" y="312" class="p">목표 도착 시간 기반으로 출발 시각을 알려주는 ETA 앱.</text>
-  <rect x="566" y="250" width="84" height="38" rx="19" fill="#E7F1FF"/><text x="608" y="275" text-anchor="middle" class="chip" fill="#149ECA">React</text>
-  <rect x="662" y="250" width="68" height="38" rx="19" fill="#F1ECFF"/><text x="696" y="275" text-anchor="middle" class="chip" fill="#7A4DFF">Vite</text>
+  <rect x="566" y="250" width="84" height="38" rx="19" fill="#E7F1FF"/><text x="608" y="275" text-anchor="middle" class="chip" fill="#1B7FA8">React</text>
+  <rect x="662" y="250" width="68" height="38" rx="19" fill="#E7F1FF"/><text x="696" y="275" text-anchor="middle" class="chip" fill="#2563EB">Vite</text>
 
   <g filter="url(#card)"><rect x="834" y="212" width="678" height="142" rx="32" fill="#FFFFFF"/></g>
-  <rect x="834" y="212" width="12" height="142" rx="6" fill="url(#accentGreen)"/>
+  <rect x="834" y="212" width="12" height="142" rx="6" fill="url(#accentTeal)"/>
   <text x="886" y="270" class="h">CodeTree</text>
   <text x="886" y="312" class="p">문제 해결력을 유지하기 위한 꾸준한 알고리즘 학습 기록.</text>
-  <rect x="1312" y="250" width="94" height="38" rx="19" fill="#E6FBEF"/><text x="1359" y="275" text-anchor="middle" class="chip" fill="#1AA35A">Python</text>
+  <rect x="1312" y="250" width="94" height="38" rx="19" fill="#E0F5F1"/><text x="1359" y="275" text-anchor="middle" class="chip" fill="#0E7490">Python</text>
 </svg>

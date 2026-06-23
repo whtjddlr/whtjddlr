@@ -17,13 +17,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E7490?style=for-the-badge&logo=opencv&logoColor=white)
 
 <br/>
 
 [![KOK](https://img.shields.io/badge/KOK-0A84FF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
 &nbsp;
-[![Recycle VQA](https://img.shields.io/badge/Recycle_VQA-A24BFF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
+[![Recycle VQA](https://img.shields.io/badge/Recycle_VQA-0E7490?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
 &nbsp;
 [![BBaru](https://img.shields.io/badge/BBaru-0072FF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/BBaru)
 &nbsp;
@@ -51,7 +51,7 @@
 &nbsp;
 [![KOK Repo](https://img.shields.io/badge/KOK%20Repo-0A84FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
 &nbsp;
-[![Recycle VQA Repo](https://img.shields.io/badge/Recycle%20VQA%20Repo-A24BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
+[![Recycle VQA Repo](https://img.shields.io/badge/Recycle%20VQA%20Repo-0E7490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
 
 </div>
 
@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph"/>
 </div>
 
 <br/>
