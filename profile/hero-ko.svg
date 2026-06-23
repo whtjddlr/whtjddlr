@@ -1,75 +1,78 @@
 <svg width="1600" height="760" viewBox="0 0 1600 760" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="760" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#F7F7F2"/>
-      <stop offset="0.52" stop-color="#F1F2F4"/>
-      <stop offset="1" stop-color="#E8EDF4"/>
+      <stop offset="0" stop-color="#0A0C10"/>
+      <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
-    <linearGradient id="panel" x1="880" y1="102" x2="1488" y2="646" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#EEF1F4"/>
+    <linearGradient id="win" x1="0" y1="24" x2="0" y2="736" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11141B"/>
+      <stop offset="1" stop-color="#0C0E14"/>
     </linearGradient>
-    <linearGradient id="black" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#141414"/>
-      <stop offset="1" stop-color="#2C2C2E"/>
-    </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="34" stdDeviation="38" flood-color="#1F2937" flood-opacity="0.16"/>
+    <radialGradient id="gl" cx="0.5" cy="0" r="0.9">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="winShadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="24" stdDeviation="40" flood-color="#000000" flood-opacity="0.55"/>
     </filter>
     <style>
-      .eyebrow { font: 650 24px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: 3px; fill: #6B7280; }
-      .title { font: 800 118px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -5px; fill: #111111; }
-      .headline { font: 720 54px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -2px; fill: #111111; }
-      .body { font: 430 30px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #626A73; }
-      .small { font: 650 23px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #73777D; }
-      .cardTitle { font: 780 38px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -1px; fill: #111111; }
-      .cardBody { font: 460 23px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #6B7280; }
-      .whiteTitle { font: 780 34px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #FFFFFF; }
-      .whiteBody { font: 450 22px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #D7D9DE; }
+      text { font-family: "SFMono-Regular", "JetBrains Mono", "Cascadia Code", Consolas, "D2Coding", "Malgun Gothic", monospace; }
+      .ln   { font-size: 28px; font-weight: 500; }
+      .arr  { fill: #56D364; }
+      .path { fill: #39C5CF; }
+      .dollar { fill: #768390; }
+      .cmd  { fill: #E6EDF3; }
+      .flag { fill: #FFA657; }
+      .out  { fill: #ADBAC7; }
+      .accent { fill: #FFFFFF; font-weight: 700; }
+      .gry  { fill: #6E7681; }
+      .key  { fill: #6BE0FF; }
+      .str  { fill: #A5D6FF; }
+      .punc { fill: #768390; }
+      .num  { fill: #FFA657; font-weight: 700; }
+      .tag  { fill: #7EE787; }
+      .titlebar { font-size: 22px; fill: #768390; letter-spacing: 1px; }
     </style>
   </defs>
 
   <rect width="1600" height="760" fill="url(#bg)"/>
-  <path d="M0 0H1600V760H0V0Z" fill="url(#bg)"/>
-  <path d="M80 655H1520" stroke="#D9DDE3" stroke-width="1"/>
-  <path d="M80 105H1520" stroke="#E5E7EB" stroke-width="1"/>
+  <rect width="1600" height="760" fill="url(#gl)"/>
 
-  <text x="92" y="164" class="eyebrow">제품 개발 · AI 실험 · 조용한 실행</text>
-  <text x="86" y="300" class="title">Sungik Cho</text>
-  <text x="92" y="382" class="headline">복잡함을 단순하게.</text>
-  <text x="94" y="446" class="body">실제로 쓰이는 제품과 검증 가능한</text>
-  <text x="94" y="488" class="body">AI 결과를 만듭니다.</text>
+  <!-- window -->
+  <g filter="url(#winShadow)">
+    <rect x="30" y="24" width="1540" height="712" rx="18" fill="url(#win)" stroke="#222A35" stroke-width="1.5"/>
+  </g>
+  <!-- title bar -->
+  <circle cx="74"  cy="66" r="9" fill="#FF5F56"/>
+  <circle cx="106" cy="66" r="9" fill="#FFBD2E"/>
+  <circle cx="138" cy="66" r="9" fill="#27C93F"/>
+  <text x="800" y="74" text-anchor="middle" class="titlebar">sungik@github — zsh — 120×30</text>
+  <line x1="30" y1="108" x2="1570" y2="108" stroke="#1C2330" stroke-width="1.5"/>
 
-  <g transform="translate(94 552)">
-    <rect x="0" y="0" width="126" height="48" rx="24" fill="#111111"/>
-    <text x="28" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21" font-weight="600" fill="white">Python</text>
-    <rect x="144" y="0" width="112" height="48" rx="24" fill="#FFFFFF" stroke="#D4D8DF"/>
-    <text x="177" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21" font-weight="600" fill="#111111">React</text>
-    <rect x="274" y="0" width="160" height="48" rx="24" fill="#FFFFFF" stroke="#D4D8DF"/>
-    <text x="307" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21" font-weight="600" fill="#111111">TypeScript</text>
-    <rect x="452" y="0" width="146" height="48" rx="24" fill="#FFFFFF" stroke="#D4D8DF"/>
-    <text x="485" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21" font-weight="600" fill="#111111">Supabase</text>
+  <!-- session -->
+  <g class="ln">
+    <!-- whoami -->
+    <text x="70" y="178"><tspan class="arr">➜</tspan>  <tspan class="path">~/dev</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">whoami</tspan></text>
+    <text x="70" y="224"><tspan class="accent">Sungik Cho</tspan>  <tspan class="gry"># Product · AI · Quiet Execution</tspan></text>
+
+    <!-- cat profile.json -->
+    <text x="70" y="284"><tspan class="arr">➜</tspan>  <tspan class="path">~/dev</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">cat profile.json</tspan></text>
+    <text x="70" y="330"><tspan class="punc">{</tspan></text>
+    <text x="100" y="376"><tspan class="key">"mission"</tspan><tspan class="punc">:</tspan> <tspan class="str">"실제로 쓰이는 제품과 검증 가능한 AI 결과를 만든다"</tspan><tspan class="punc">,</tspan></text>
+    <text x="100" y="422"><tspan class="key">"way"</tspan><tspan class="punc">:</tspan>     <tspan class="str">"작게 시작하고, 끝까지 작동하게, 다시 단순하게"</tspan></text>
+    <text x="70" y="468"><tspan class="punc">}</tspan></text>
+
+    <!-- ls skills -->
+    <text x="70" y="528"><tspan class="arr">➜</tspan>  <tspan class="path">~/dev</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">ls skills/</tspan></text>
+    <text x="70" y="574"><tspan class="tag">python</tspan>   <tspan class="tag">react</tspan>   <tspan class="tag">typescript</tspan>   <tspan class="tag">supabase</tspan>   <tspan class="tag">computer-vision</tspan></text>
+
+    <!-- featured -->
+    <text x="70" y="634"><tspan class="arr">➜</tspan>  <tspan class="path">~/dev</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">./featured </tspan><tspan class="flag">--top</tspan></text>
+    <text x="70" y="680"><tspan class="gry">→</tspan> <tspan class="accent">KOK</tspan>  <tspan class="punc">·</tspan>  <tspan class="accent">Recycle VQA</tspan> <tspan class="punc">[</tspan><tspan class="num">#1 / 193팀</tspan><tspan class="punc">]</tspan>  <tspan class="gry">✓ done</tspan></text>
   </g>
 
-  <g filter="url(#softShadow)">
-    <rect x="870" y="130" width="640" height="496" rx="58" fill="url(#panel)" stroke="#FFFFFF" stroke-width="2"/>
-  </g>
-
-  <rect x="926" y="186" width="528" height="122" rx="34" fill="url(#black)"/>
-  <text x="970" y="240" class="whiteTitle">대표 작업</text>
-  <text x="970" y="278" class="whiteBody">제품 · AI · 꾸준한 실행</text>
-
-  <rect x="926" y="346" width="250" height="208" rx="36" fill="#FFFFFF" stroke="#E2E5EA"/>
-  <text x="962" y="406" class="small">제품</text>
-  <text x="962" y="462" class="cardTitle">KOK</text>
-  <text x="962" y="504" class="cardBody">약속 장소 플래너</text>
-
-  <rect x="1204" y="346" width="250" height="208" rx="36" fill="#FFFFFF" stroke="#E2E5EA"/>
-  <text x="1240" y="406" class="small">성과</text>
-  <text x="1240" y="462" class="cardTitle">1위 / 193팀</text>
-  <text x="1240" y="504" class="cardBody">Recycle VQA</text>
-
-  <circle cx="1422" cy="224" r="17" fill="#A3B18A"/>
-  <circle cx="1374" cy="224" r="17" fill="#111111"/>
-  <circle cx="1326" cy="224" r="17" fill="#DAD7CD"/>
+  <!-- blinking cursor -->
+  <rect x="468" y="612" width="15" height="30" fill="#56D364">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
 </svg>

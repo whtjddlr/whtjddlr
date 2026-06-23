@@ -1,51 +1,39 @@
 <svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F1F3F5"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11141B"/>
+      <stop offset="1" stop-color="#0C0E14"/>
     </linearGradient>
-    <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111111"/>
-      <stop offset="1" stop-color="#343A40"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#111827" flood-opacity="0.12"/>
-    </filter>
     <style>
-      .kicker { font: 650 22px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: 3px; fill: #7A8088; }
-      .h { font: 780 54px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -2px; fill: #111111; }
-      .p { font: 430 26px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #626A73; }
-      .num { font: 760 46px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #C9CDD3; }
-      .cardH { font: 760 40px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -1px; fill: #111111; }
-      .cardP { font: 430 23px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #636B74; }
-      .darkH { font: 760 40px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -1px; fill: #FFFFFF; }
-      .darkP { font: 430 23px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #DADDE2; }
+      text { font-family: "SFMono-Regular", "JetBrains Mono", "Cascadia Code", Consolas, "D2Coding", "Malgun Gothic", monospace; }
+      .ln { font-size: 27px; font-weight: 500; }
+      .arr{ fill:#56D364; } .path{ fill:#39C5CF; } .dollar{ fill:#768390; } .cmd{ fill:#E6EDF3; }
+      .gry{ fill:#6E7681; } .hash{ fill:#FFA657; } .head{ fill:#6BE0FF; font-weight:700; }
+      .ref{ fill:#7EE787; } .msg{ fill:#E6EDF3; } .sub{ fill:#ADBAC7; }
+      .titlebar{ font-size:21px; fill:#768390; letter-spacing:1px; }
     </style>
   </defs>
 
-  <rect width="1600" height="560" rx="52" fill="url(#surface)"/>
-  <text x="86" y="106" class="kicker">케이스 스터디</text>
-  <text x="84" y="178" class="h">쓰이고, 측정되고, 다시 다듬어진 작업들.</text>
-  <text x="88" y="232" class="p">제품과 실험, 그리고 끝까지 완성해가는 방식.</text>
+  <rect width="1600" height="560" rx="18" fill="url(#bg)" stroke="#222A35" stroke-width="1.5"/>
+  <circle cx="44" cy="40" r="8" fill="#FF5F56"/>
+  <circle cx="72" cy="40" r="8" fill="#FFBD2E"/>
+  <circle cx="100" cy="40" r="8" fill="#27C93F"/>
+  <text x="800" y="47" text-anchor="middle" class="titlebar">sungik@github — git log</text>
+  <line x1="0" y1="74" x2="1600" y2="74" stroke="#1C2330" stroke-width="1.5"/>
 
-  <g filter="url(#shadow)">
-    <rect x="88" y="304" width="450" height="178" rx="34" fill="url(#dark)"/>
-  </g>
-  <text x="124" y="374" class="num">01</text>
-  <text x="216" y="374" class="darkH">KOK</text>
-  <text x="216" y="420" class="darkP">약속 장소 흐름을 가볍게.</text>
+  <g class="ln">
+    <text x="56" y="134"><tspan class="arr">➜</tspan>  <tspan class="path">~/work</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">git log --oneline --graph</tspan></text>
 
-  <g filter="url(#shadow)">
-    <rect x="574" y="304" width="450" height="178" rx="34" fill="#FFFFFF" stroke="#E1E5EA"/>
-  </g>
-  <text x="610" y="374" class="num">02</text>
-  <text x="702" y="374" class="cardH">Recycle VQA</text>
-  <text x="702" y="420" class="cardP">private 리더보드 1위.</text>
+    <text x="56" y="206"><tspan class="hash">*</tspan> <tspan class="hash">a1f03c2</tspan> <tspan class="gry">(</tspan><tspan class="head">HEAD</tspan> <tspan class="gry">-&gt;</tspan> <tspan class="ref">main</tspan><tspan class="gry">)</tspan> <tspan class="msg">feat(KOK): 약속 장소 흐름을 가볍게</tspan></text>
+    <text x="88" y="244"><tspan class="sub">제품 · 실시간 방 · 후보 비교 · 추첨</tspan></text>
 
-  <g filter="url(#shadow)">
-    <rect x="1060" y="304" width="450" height="178" rx="34" fill="#FFFFFF" stroke="#E1E5EA"/>
+    <text x="56" y="318"><tspan class="hash">*</tspan> <tspan class="hash">7be91d4</tspan> <tspan class="msg">feat(VQA): private 리더보드 1위 / 193팀</tspan></text>
+    <text x="88" y="356"><tspan class="sub">AI · 데이터 관찰 · 학습 전략 · 제출 실험</tspan></text>
+
+    <text x="56" y="430"><tspan class="hash">*</tspan> <tspan class="hash">3c0d8af</tspan> <tspan class="msg">feat(systems): 작은 시스템들을 하나의 흐름으로</tspan></text>
+    <text x="88" y="468"><tspan class="sub">ETA 프로토타입 · 알고리즘 기록</tspan></text>
+
+    <text x="56" y="524"><tspan class="arr">➜</tspan>  <tspan class="path">~/work</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">_</tspan></text>
   </g>
-  <text x="1096" y="374" class="num">03</text>
-  <text x="1188" y="374" class="cardH">작은 시스템</text>
-  <text x="1188" y="420" class="cardP">ETA와 알고리즘 기록.</text>
+  <rect x="158" y="502" width="13" height="28" fill="#56D364"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
 </svg>

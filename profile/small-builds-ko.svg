@@ -1,39 +1,35 @@
 <svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="430" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F2F4F7"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11141B"/>
+      <stop offset="1" stop-color="#0C0E14"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#111827" flood-opacity="0.10"/>
-    </filter>
     <style>
-      .kicker { font: 650 22px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: 3px; fill: #7A8088; }
-      .title { font: 760 46px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; letter-spacing: -1px; fill: #111111; }
-      .h { font: 760 38px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #111111; }
-      .p { font: 430 24px -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; fill: #626A73; }
-      .chip { font: 620 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #111111; }
+      text { font-family: "SFMono-Regular", "JetBrains Mono", "Cascadia Code", Consolas, "D2Coding", "Malgun Gothic", monospace; }
+      .ln { font-size: 26px; font-weight: 500; }
+      .arr{ fill:#56D364; } .path{ fill:#39C5CF; } .dollar{ fill:#768390; } .cmd{ fill:#E6EDF3; }
+      .gry{ fill:#6E7681; } .perm{ fill:#6E7681; } .dir{ fill:#6BE0FF; font-weight:700; }
+      .out{ fill:#ADBAC7; } .tag{ fill:#7EE787; } .date{ fill:#768390; }
+      .titlebar{ font-size:20px; fill:#768390; letter-spacing:1px; }
     </style>
   </defs>
-  <rect width="1600" height="430" rx="50" fill="url(#bg)"/>
-  <text x="86" y="96" class="kicker">작지만 완성도 있게</text>
-  <text x="84" y="154" class="title">작은 프로젝트도 하나의 흐름으로.</text>
 
-  <g filter="url(#shadow)">
-    <rect x="88" y="214" width="678" height="136" rx="34" fill="#FFFFFF" stroke="#E3E7EC"/>
-  </g>
-  <text x="132" y="270" class="h">BBaru</text>
-  <text x="132" y="312" class="p">목표 도착 시간에 맞춘 ETA 기반 프로토타입.</text>
-  <rect x="570" y="252" width="82" height="36" rx="18" fill="#EEF1F4"/>
-  <text x="592" y="276" class="chip">React</text>
-  <rect x="664" y="252" width="70" height="36" rx="18" fill="#EEF1F4"/>
-  <text x="686" y="276" class="chip">Vite</text>
+  <rect width="1600" height="430" rx="18" fill="url(#bg)" stroke="#222A35" stroke-width="1.5"/>
+  <circle cx="44" cy="38" r="8" fill="#FF5F56"/>
+  <circle cx="72" cy="38" r="8" fill="#FFBD2E"/>
+  <circle cx="100" cy="38" r="8" fill="#27C93F"/>
+  <text x="800" y="45" text-anchor="middle" class="titlebar">sungik@github — ls side-builds/</text>
+  <line x1="0" y1="70" x2="1600" y2="70" stroke="#1C2330" stroke-width="1.5"/>
 
-  <g filter="url(#shadow)">
-    <rect x="834" y="214" width="678" height="136" rx="34" fill="#FFFFFF" stroke="#E3E7EC"/>
+  <g class="ln">
+    <text x="48" y="128"><tspan class="arr">➜</tspan>  <tspan class="path">~/side-builds</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">ls -la</tspan></text>
+
+    <text x="48" y="196"><tspan class="perm">drwxr-xr-x</tspan>  <tspan class="dir">BBaru/</tspan>      <tspan class="out">목표 도착 시간 기반 ETA 프로토타입</tspan>   <tspan class="tag">[react · vite]</tspan></text>
+
+    <text x="48" y="260"><tspan class="perm">drwxr-xr-x</tspan>  <tspan class="dir">CodeTree/</tspan>   <tspan class="out">문제 해결 감각을 유지하는 알고리즘 기록</tspan>   <tspan class="tag">[python]</tspan></text>
+
+    <text x="48" y="336"><tspan class="gry"># 작은 프로젝트도 하나의 흐름으로.</tspan></text>
+    <text x="48" y="392"><tspan class="arr">➜</tspan>  <tspan class="path">~/side-builds</tspan> <tspan class="dollar">$</tspan> <tspan class="cmd">_</tspan></text>
   </g>
-  <text x="878" y="270" class="h">CodeTree</text>
-  <text x="878" y="312" class="p">문제 해결 감각을 유지하는 알고리즘 기록.</text>
-  <rect x="1314" y="252" width="92" height="36" rx="18" fill="#EEF1F4"/>
-  <text x="1336" y="276" class="chip">Python</text>
+  <rect x="312" y="370" width="13" height="27" fill="#56D364"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
 </svg>
