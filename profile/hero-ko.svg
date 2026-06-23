@@ -26,11 +26,11 @@
 
   <rect width="1600" height="760" fill="url(#bg)"/>
 
-  <text x="800" y="118" text-anchor="middle" class="eyebrow">제품 개발 · AI 실험 · 조용한 실행</text>
+  <text x="800" y="118" text-anchor="middle" class="eyebrow">PRODUCT · AI · FULL-STACK</text>
   <text x="800" y="244" text-anchor="middle" class="name">Sungik Cho</text>
-  <text x="800" y="330" text-anchor="middle" class="head">복잡함을 단순하게.</text>
-  <text x="800" y="398" text-anchor="middle" class="sub">실제로 쓰이는 제품과 검증 가능한 AI 결과를 만듭니다.</text>
-  <text x="800" y="440" text-anchor="middle" class="sub">작게 시작하고, 끝까지 작동하게 만들고, 다시 단순하게.</text>
+  <text x="800" y="330" text-anchor="middle" class="head">데모가 아니라, 배포합니다.</text>
+  <text x="800" y="398" text-anchor="middle" class="sub">실서비스로 띄운 제품, 193팀 중 1위를 한 AI 모델.</text>
+  <text x="800" y="440" text-anchor="middle" class="sub">기획부터 배포까지, 직접 끝을 봅니다.</text>
 
   <!-- tech pills -->
   <g transform="translate(433 488)">
@@ -45,7 +45,7 @@
   <g filter="url(#card)">
     <rect x="245" y="576" width="360" height="132" rx="30" fill="#FFFFFF"/>
   </g>
-  <text x="285" y="630" class="clabel">대표 작업</text>
+  <text x="285" y="630" class="clabel">라이브 제품</text>
   <text x="285" y="676" class="cval">KOK</text>
   <circle cx="555" cy="622" r="6" fill="#34C759"/>
 
@@ -58,6 +58,6 @@
   <g filter="url(#card)">
     <rect x="1025" y="576" width="360" height="132" rx="30" fill="#FFFFFF"/>
   </g>
-  <text x="1065" y="630" class="clabel">대표 성과 프로젝트</text>
+  <text x="1065" y="630" class="clabel">AI 챌린지</text>
   <text x="1065" y="676" class="cval">Recycle VQA</text>
 </svg>

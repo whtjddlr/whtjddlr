@@ -27,15 +27,15 @@
 
   <rect width="1600" height="820" rx="48" fill="url(#bg)"/>
   <text x="92" y="112" class="kicker">FEATURED WORK</text>
-  <text x="90" y="184" class="title">테이블 대신, 제품처럼 보이게.</text>
-  <text x="94" y="236" class="sub">결과와 흐름이 먼저 읽히도록 두 개의 작업만 크게 보여줍니다.</text>
+  <text x="90" y="184" class="title">자랑은 두 개면 충분합니다.</text>
+  <text x="94" y="236" class="sub">실서비스로 띄운 제품 하나, 193팀 중 1위를 한 모델 하나.</text>
 
   <!-- KOK (dark) -->
   <g filter="url(#card)"><rect x="94" y="310" width="682" height="390" rx="44" fill="url(#dark)"/></g>
   <text x="142" y="390" class="num">01</text>
   <text x="142" y="448" class="h" fill="#FFFFFF">KOK</text>
-  <text x="142" y="510" class="pp" fill="#D2D2D7">어디서 볼지, 같이 가볍게 정하는</text>
-  <text x="142" y="546" class="pp" fill="#D2D2D7">약속 장소 플래너.</text>
+  <text x="142" y="510" class="pp" fill="#D2D2D7">어디서 만날지, 다 같이 정하는</text>
+  <text x="142" y="546" class="pp" fill="#D2D2D7">실시간 약속 장소 플래너.</text>
   <text x="142" y="606" class="label" fill="#8E8E93">실시간 방 참여 · 후보 장소 비교 · 추첨 흐름</text>
   <g transform="translate(142 636)">
     <rect x="0"   y="0" width="92"  height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/><text x="46"  y="26" text-anchor="middle" class="chip" fill="#FFFFFF">React</text>

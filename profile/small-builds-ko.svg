@@ -18,16 +18,16 @@
 
   <rect width="1600" height="430" rx="44" fill="url(#bg)"/>
   <text x="86" y="92" class="kicker">SIDE BUILDS</text>
-  <text x="84" y="150" class="title">작은 프로젝트도 하나의 흐름으로.</text>
+  <text x="84" y="150" class="title">주말에 만든 것도, 끝은 봅니다.</text>
 
   <g filter="url(#card)"><rect x="88" y="212" width="678" height="142" rx="32" fill="#FFFFFF"/></g>
   <text x="132" y="270" class="h">BBaru</text>
-  <text x="132" y="312" class="p">목표 도착 시간에 맞춘 ETA 기반 프로토타입.</text>
+  <text x="132" y="312" class="p">언제 나가야 안 늦는지 계산해주는 ETA 앱.</text>
   <rect x="566" y="250" width="84" height="38" rx="19" fill="#F0F0F2"/><text x="608" y="275" text-anchor="middle" class="chip">React</text>
   <rect x="662" y="250" width="68" height="38" rx="19" fill="#F0F0F2"/><text x="696" y="275" text-anchor="middle" class="chip">Vite</text>
 
   <g filter="url(#card)"><rect x="834" y="212" width="678" height="142" rx="32" fill="#FFFFFF"/></g>
   <text x="878" y="270" class="h">CodeTree</text>
-  <text x="878" y="312" class="p">문제 해결 감각을 유지하는 알고리즘 기록.</text>
+  <text x="878" y="312" class="p">감 잃지 않으려고 꾸준히 푸는 알고리즘 기록.</text>
   <rect x="1312" y="250" width="94" height="38" rx="19" fill="#F0F0F2"/><text x="1359" y="275" text-anchor="middle" class="chip">Python</text>
 </svg>

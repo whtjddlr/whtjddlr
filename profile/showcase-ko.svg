@@ -24,21 +24,21 @@
   <rect width="1600" height="560" rx="44" fill="url(#bg)"/>
 
   <text x="86" y="100" class="kicker">SELECTED WORK</text>
-  <text x="84" y="172" class="h">쓰이고, 측정되고, 다시 다듬어진 작업들.</text>
-  <text x="88" y="222" class="p">제품과 실험, 그리고 끝까지 완성해가는 방식.</text>
+  <text x="84" y="172" class="h">전부, 끝까지 간 작업입니다.</text>
+  <text x="88" y="222" class="p">라이브 제품 하나, 1위 모델 하나, 그리고 작은 도구들.</text>
 
   <g filter="url(#card)"><rect x="88" y="298" width="450" height="188" rx="34" fill="#FFFFFF"/></g>
   <text x="128" y="362" class="num">01</text>
   <text x="128" y="416" class="cardH">KOK</text>
-  <text x="128" y="456" class="cardP">약속 장소 흐름을 가볍게.</text>
+  <text x="128" y="456" class="cardP">실시간으로 약속 장소 정하기.</text>
 
   <g filter="url(#card)"><rect x="574" y="298" width="450" height="188" rx="34" fill="#1D1D1F"/></g>
   <text x="614" y="362" class="num">02</text>
   <text x="614" y="416" class="cardH" fill="#FFFFFF">Recycle VQA</text>
-  <text x="614" y="456" class="cardP" fill="#A1A1A6">private 리더보드 1위.</text>
+  <text x="614" y="456" class="cardP" fill="#A1A1A6">193팀 중 1위.</text>
 
   <g filter="url(#card)"><rect x="1060" y="298" width="450" height="188" rx="34" fill="#FFFFFF"/></g>
   <text x="1100" y="362" class="num">03</text>
-  <text x="1100" y="416" class="cardH">작은 시스템</text>
-  <text x="1100" y="456" class="cardP">ETA와 알고리즘 기록.</text>
+  <text x="1100" y="416" class="cardH">작은 도구</text>
+  <text x="1100" y="456" class="cardP">ETA 계산기와 알고리즘 노트.</text>
 </svg>
