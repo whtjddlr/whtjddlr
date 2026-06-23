@@ -1,99 +1,77 @@
 <div align="center">
-  <img width="100%" src="./profile/hero-ko.svg" alt="Sungik Cho — portfolio"/>
+  <img width="100%" src="./profile/hero-ko.svg" alt="Sungik Cho"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<sup>PRODUCT · AI · FULL-STACK</sup>
+<sup>WEB · AI · 꾸준한 기록</sup>
 
-기획부터 출시까지, 제품을 끝까지 완성합니다.<br/>
-실서비스 운영 경험과 AI 경진대회 193팀 중 1위 기록.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E7490?style=for-the-badge&logo=opencv&logoColor=white)
+웹과 AI를 공부하며 만든 것들을 여기에 모아둡니다.<br/>
+크게 내세우기보다, 끝까지 만들어보는 걸 좋아합니다.
 
 <br/>
 
-[![KOK](https://img.shields.io/badge/KOK-0A84FF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
-&nbsp;
-[![Recycle VQA](https://img.shields.io/badge/Recycle_VQA-0E7490?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
-&nbsp;
-[![BBaru](https://img.shields.io/badge/BBaru-0072FF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/BBaru)
-&nbsp;
-[![CodeTree](https://img.shields.io/badge/CodeTree-1AA35A?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/CodeTree)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E7490?style=flat&logo=opencv&logoColor=white)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="./profile/showcase-ko.svg" alt="Selected work showcase"/>
+  <img width="100%" src="./profile/repositories-ko.svg" alt="Repositories"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="./profile/project-details-ko.svg" alt="대표 작업 상세 카드"/>
-</div>
-
-<br/>
 
 <div align="center">
 
-[![KOK Live](https://img.shields.io/badge/▶%20KOK%20Live-34C759?style=for-the-badge&logoColor=white)](https://kok-meet.vercel.app/)
-&nbsp;
-[![KOK Repo](https://img.shields.io/badge/KOK%20Repo-0A84FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
-&nbsp;
-[![Recycle VQA Repo](https://img.shields.io/badge/Recycle%20VQA%20Repo-0E7490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
+[KOK](https://github.com/whtjddlr/KOK)
+&nbsp;·&nbsp;
+[Recycle VQA](https://github.com/whtjddlr/Recycle_VQA_Challenge)
+&nbsp;·&nbsp;
+[BBaru](https://github.com/whtjddlr/BBaru)
+&nbsp;·&nbsp;
+[CodeTree](https://github.com/whtjddlr/CodeTree)
+&nbsp;·&nbsp;
+[togetAI](https://github.com/whtjddlr/togetAI)
+&nbsp;·&nbsp;
+[godlife-quest-pet](https://github.com/whtjddlr/godlife-quest-pet)
+&nbsp;·&nbsp;
+[coinsoup](https://github.com/whtjddlr/coinsoup)
+&nbsp;·&nbsp;
+[TIL](https://github.com/whtjddlr/TIL)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="./profile/small-builds-ko.svg" alt="작은 프로젝트 카드"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![BBaru Repo](https://img.shields.io/badge/BBaru%20Repo-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/BBaru)
-&nbsp;
-[![CodeTree Repo](https://img.shields.io/badge/CodeTree%20Repo-1AA35A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/CodeTree)
+<sub>그 외 저장소는 <a href="https://github.com/whtjddlr?tab=repositories">전체 목록</a>에서 볼 수 있습니다.</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="380" src="./github-metrics.svg" alt="GitHub metrics"/>
+  <a href="https://kok-meet.vercel.app/">▶ KOK 데모 보기</a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph"/>
+  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="contribution graph"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-> 만드는 데서 멈추지 않고, 사용자에게 닿을 때까지 완성합니다.
+> 잘하는 사람은 많으니, 저는 꾸준히 끝까지 만들어보려 합니다.
 
 </div>
 
 <br/>
 
-<details>
+<details align="center">
   <summary>최근 글</summary>
 
 <br/>
