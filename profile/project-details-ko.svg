@@ -1,27 +1,26 @@
 <svg width="1600" height="820" viewBox="0 0 1600 820" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="820" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FBFBFD"/><stop offset="1" stop-color="#F0F0F2"/>
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EFF2F9"/>
     </linearGradient>
-    <linearGradient id="dark" x1="94" y1="310" x2="776" y2="700" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#26262A"/><stop offset="1" stop-color="#1D1D1F"/>
+    <linearGradient id="kokCard" x1="94" y1="310" x2="776" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A84FF"/><stop offset="1" stop-color="#0A3D91"/>
     </linearGradient>
-    <linearGradient id="intel" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FF5E8A"/><stop offset="0.5" stop-color="#A24BFF"/><stop offset="1" stop-color="#2997FF"/>
+    <linearGradient id="vqaCard" x1="824" y1="310" x2="1506" y2="700" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B14BFF"/><stop offset="1" stop-color="#FF4D8D"/>
     </linearGradient>
-    <filter id="card" x="-15%" y="-15%" width="130%" height="140%">
-      <feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#1D1D1F" flood-opacity="0.12"/>
-    </filter>
+    <linearGradient id="intel" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF5E8A"/><stop offset="0.5" stop-color="#A24BFF"/><stop offset="1" stop-color="#2997FF"/></linearGradient>
+    <filter id="card" x="-15%" y="-15%" width="130%" height="140%"><feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#3A4256" flood-opacity="0.22"/></filter>
     <style>
       text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif; }
-      .kicker { font-size: 22px; font-weight: 600; letter-spacing: 1px; fill: #0071E3; }
+      .kicker { font-size: 22px; font-weight: 700; letter-spacing: 1.5px; fill: #A24BFF; }
       .title  { font-size: 56px; font-weight: 600; letter-spacing: -2px; fill: #1D1D1F; }
-      .sub    { font-size: 26px; font-weight: 400; fill: #6E6E73; }
-      .num    { font-size: 30px; font-weight: 600; fill: url(#intel); }
-      .h      { font-size: 50px; font-weight: 600; letter-spacing: -1px; }
-      .pp     { font-size: 25px; font-weight: 400; }
-      .label  { font-size: 21px; font-weight: 600; }
-      .chip   { font-size: 19px; font-weight: 500; }
+      .sub    { font-size: 26px; font-weight: 400; fill: #5C6470; }
+      .num    { font-size: 30px; font-weight: 700; fill: #FFFFFF; opacity: 0.8; }
+      .h      { font-size: 50px; font-weight: 600; letter-spacing: -1px; fill: #FFFFFF; }
+      .pp     { font-size: 25px; font-weight: 400; fill: #FFFFFF; opacity: 0.92; }
+      .label  { font-size: 21px; font-weight: 600; fill: #FFFFFF; opacity: 0.75; }
+      .chip   { font-size: 19px; font-weight: 600; fill: #FFFFFF; }
     </style>
   </defs>
 
@@ -30,29 +29,33 @@
   <text x="90" y="184" class="title">성과로 증명한 두 프로젝트.</text>
   <text x="94" y="236" class="sub">실제 사용자에게 서비스 중인 제품과, 193팀 중 1위를 기록한 AI 모델.</text>
 
-  <!-- KOK (dark) -->
-  <g filter="url(#card)"><rect x="94" y="310" width="682" height="390" rx="44" fill="url(#dark)"/></g>
+  <!-- KOK (blue) -->
+  <g filter="url(#card)"><rect x="94" y="310" width="682" height="390" rx="44" fill="url(#kokCard)"/></g>
   <text x="142" y="390" class="num">01</text>
-  <text x="142" y="448" class="h" fill="#FFFFFF">KOK</text>
-  <text x="142" y="510" class="pp" fill="#D2D2D7">만날 장소를 실시간으로 함께 정하는</text>
-  <text x="142" y="546" class="pp" fill="#D2D2D7">약속 장소 플래너.</text>
-  <text x="142" y="606" class="label" fill="#8E8E93">실시간 방 참여 · 후보 장소 비교 · 추첨 흐름</text>
+  <text x="142" y="448" class="h">KOK</text>
+  <rect x="600" y="356" width="132" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.18"/>
+  <circle cx="628" cy="376" r="6" fill="#5CFF9D"/><text x="646" y="383" font-family="-apple-system,sans-serif" font-size="19" font-weight="600" fill="#FFFFFF">LIVE</text>
+  <text x="142" y="510" class="pp">만날 장소를 실시간으로 함께 정하는</text>
+  <text x="142" y="546" class="pp">약속 장소 플래너.</text>
+  <text x="142" y="606" class="label">실시간 방 참여 · 후보 장소 비교 · 추첨 흐름</text>
   <g transform="translate(142 636)">
-    <rect x="0"   y="0" width="92"  height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/><text x="46"  y="26" text-anchor="middle" class="chip" fill="#FFFFFF">React</text>
-    <rect x="106" y="0" width="138" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/><text x="175" y="26" text-anchor="middle" class="chip" fill="#FFFFFF">TypeScript</text>
-    <rect x="258" y="0" width="124" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.14"/><text x="320" y="26" text-anchor="middle" class="chip" fill="#FFFFFF">Supabase</text>
+    <rect x="0"   y="0" width="92"  height="40" rx="20" fill="#FFFFFF" fill-opacity="0.18"/><text x="46"  y="26" text-anchor="middle" class="chip">React</text>
+    <rect x="106" y="0" width="138" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.18"/><text x="175" y="26" text-anchor="middle" class="chip">TypeScript</text>
+    <rect x="258" y="0" width="124" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.18"/><text x="320" y="26" text-anchor="middle" class="chip">Supabase</text>
   </g>
 
-  <!-- VQA (light) -->
-  <g filter="url(#card)"><rect x="824" y="310" width="682" height="390" rx="44" fill="#FFFFFF"/></g>
+  <!-- VQA (purple/pink) -->
+  <g filter="url(#card)"><rect x="824" y="310" width="682" height="390" rx="44" fill="url(#vqaCard)"/></g>
   <text x="872" y="390" class="num">02</text>
-  <text x="872" y="448" class="h" fill="#1D1D1F">Recycle VQA</text>
-  <text x="872" y="510" class="pp" fill="#6E6E73">이미지 기반 VQA 문제를 해결해</text>
-  <text x="872" y="546" class="pp" fill="#6E6E73"><tspan fill="#1D1D1F" font-weight="600">193팀 중 1위</tspan>를 기록했습니다.</text>
-  <text x="872" y="606" class="label" fill="#86868B">데이터 관찰 · 학습 전략 · 제출 실험</text>
+  <text x="872" y="448" class="h">Recycle VQA</text>
+  <rect x="1300" y="356" width="160" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.22"/>
+  <text x="1380" y="383" text-anchor="middle" font-family="-apple-system,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">🏆 #1 / 193</text>
+  <text x="872" y="510" class="pp">이미지 기반 VQA 문제를 해결해</text>
+  <text x="872" y="546" class="pp"><tspan font-weight="700">193팀 중 1위</tspan>를 기록했습니다.</text>
+  <text x="872" y="606" class="label">데이터 관찰 · 학습 전략 · 제출 실험</text>
   <g transform="translate(872 636)">
-    <rect x="0"   y="0" width="100" height="40" rx="20" fill="#F0F0F2"/><text x="50"  y="26" text-anchor="middle" class="chip" fill="#1D1D1F">Python</text>
-    <rect x="114" y="0" width="184" height="40" rx="20" fill="#F0F0F2"/><text x="206" y="26" text-anchor="middle" class="chip" fill="#1D1D1F">Computer Vision</text>
-    <rect x="312" y="0" width="74"  height="40" rx="20" fill="#F0F0F2"/><text x="349" y="26" text-anchor="middle" class="chip" fill="#1D1D1F">VQA</text>
+    <rect x="0"   y="0" width="100" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.2"/><text x="50"  y="26" text-anchor="middle" class="chip">Python</text>
+    <rect x="114" y="0" width="184" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.2"/><text x="206" y="26" text-anchor="middle" class="chip">Computer Vision</text>
+    <rect x="312" y="0" width="74"  height="40" rx="20" fill="#FFFFFF" fill-opacity="0.2"/><text x="349" y="26" text-anchor="middle" class="chip">VQA</text>
   </g>
 </svg>

@@ -13,21 +13,21 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-F5F5F7?style=for-the-badge&logo=python&logoColor=1D1D1F)
-![React](https://img.shields.io/badge/React-F5F5F7?style=for-the-badge&logo=react&logoColor=1D1D1F)
-![TypeScript](https://img.shields.io/badge/TypeScript-F5F5F7?style=for-the-badge&logo=typescript&logoColor=1D1D1F)
-![Supabase](https://img.shields.io/badge/Supabase-F5F5F7?style=for-the-badge&logo=supabase&logoColor=1D1D1F)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-F5F5F7?style=for-the-badge&logo=opencv&logoColor=1D1D1F)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 <br/>
 
-[![KOK](https://img.shields.io/badge/KOK-1D1D1F?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
+[![KOK](https://img.shields.io/badge/KOK-0A84FF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
 &nbsp;
-[![Recycle VQA](https://img.shields.io/badge/Recycle_VQA-1D1D1F?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
+[![Recycle VQA](https://img.shields.io/badge/Recycle_VQA-A24BFF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
 &nbsp;
-[![BBaru](https://img.shields.io/badge/BBaru-1D1D1F?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/BBaru)
+[![BBaru](https://img.shields.io/badge/BBaru-0072FF?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/BBaru)
 &nbsp;
-[![CodeTree](https://img.shields.io/badge/CodeTree-1D1D1F?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/CodeTree)
+[![CodeTree](https://img.shields.io/badge/CodeTree-1AA35A?style=flat-square&logo=github&logoColor=white)](https://github.com/whtjddlr/CodeTree)
 
 </div>
 
@@ -47,11 +47,11 @@
 
 <div align="center">
 
-[![KOK Live](https://img.shields.io/badge/▶%20KOK%20Live-0071E3?style=for-the-badge&labelColor=0071E3&color=0071E3)](https://kok-meet.vercel.app/)
+[![KOK Live](https://img.shields.io/badge/▶%20KOK%20Live-34C759?style=for-the-badge&logoColor=white)](https://kok-meet.vercel.app/)
 &nbsp;
-[![KOK Repo](https://img.shields.io/badge/KOK%20Repo-F5F5F7?style=for-the-badge&logo=github&logoColor=1D1D1F)](https://github.com/whtjddlr/KOK)
+[![KOK Repo](https://img.shields.io/badge/KOK%20Repo-0A84FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/KOK)
 &nbsp;
-[![Recycle VQA Repo](https://img.shields.io/badge/Recycle%20VQA%20Repo-F5F5F7?style=for-the-badge&logo=github&logoColor=1D1D1F)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
+[![Recycle VQA Repo](https://img.shields.io/badge/Recycle%20VQA%20Repo-A24BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/Recycle_VQA_Challenge)
 
 </div>
 
@@ -65,22 +65,28 @@
 
 <div align="center">
 
-[![BBaru Repo](https://img.shields.io/badge/BBaru%20Repo-F5F5F7?style=for-the-badge&logo=github&logoColor=1D1D1F)](https://github.com/whtjddlr/BBaru)
+[![BBaru Repo](https://img.shields.io/badge/BBaru%20Repo-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/BBaru)
 &nbsp;
-[![CodeTree Repo](https://img.shields.io/badge/CodeTree%20Repo-F5F5F7?style=for-the-badge&logo=github&logoColor=1D1D1F)](https://github.com/whtjddlr/CodeTree)
+[![CodeTree Repo](https://img.shields.io/badge/CodeTree%20Repo-1AA35A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whtjddlr/CodeTree)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake.svg" alt="contribution snake"/>
+  <img height="380" src="./github-metrics.svg" alt="GitHub metrics"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-green.svg" alt="contribution graph"/>
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/whtjddlr/whtjddlr/output/github-snake-dark.svg" alt="contribution snake"/>
 </div>
 
 <br/>
