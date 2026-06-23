@@ -13,56 +13,23 @@
   </tr>
 </table>
 
-## Selected Work
+<br/>
 
-### 01. KOK
-
-<table>
-  <tr>
-    <td width="42%" valign="top">
-      <a href="https://kok-meet.vercel.app/">
-        <img width="100%" src="./profile/shots/kok-preview.png" alt="KOK app screenshot"/>
-      </a>
-    </td>
-    <td width="58%" valign="top">
-      <p>
-        A realtime meeting-place planner where people share starting points,
-        compare routes, and choose the final spot through a shared draw.
-      </p>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>Supabase</code>
-        <code>Naver Maps</code>
-      </p>
-      <p>
-        <a href="https://github.com/whtjddlr/KOK">Repository</a>
-        &middot;
-        <a href="https://kok-meet.vercel.app/">Live</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 02. Recycle VQA Challenge
+<div align="center">
+  <img width="100%" src="./profile/work-board.png" alt="Selected work board"/>
+</div>
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">
-        <img width="100%" src="./profile/shots/recycle-vqa-leaderboard.png" alt="Recycle VQA private leaderboard screenshot"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>KOK</h3>
+      <p>Realtime meeting-place planner with shared starting points, route comparison, and live draw flow.</p>
+      <p><a href="https://github.com/whtjddlr/KOK">Repository</a> &middot; <a href="https://kok-meet.vercel.app/">Live</a></p>
     </td>
-    <td width="42%" valign="top">
-      <p>
-        A visual question answering solution for recycling images. Built for
-        the SSAFY AI Challenge and ranked 1st among 193 teams.
-      </p>
-      <p>
-        <code>Python</code> <code>Computer Vision</code> <code>VQA</code>
-        <code>AI Challenge</code>
-      </p>
-      <p>
-        <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">Repository</a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>Recycle VQA Challenge</h3>
+      <p>Visual question answering solution for recycling images, ranked 1st among 193 teams.</p>
+      <p><a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">Repository</a></p>
     </td>
   </tr>
 </table>
