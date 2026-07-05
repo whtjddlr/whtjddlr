@@ -5,43 +5,19 @@
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/whtjddlr/KOK">
-          <img src="./profile/readme-launcher/kok.png" width="154" alt="KOK"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/whtjddlr/BBaru">
-          <img src="./profile/readme-launcher/bbaru.png" width="154" alt="BBaru"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/whtjddlr/carch">
-          <img src="./profile/readme-launcher/carch.png" width="154" alt="carch"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/whtjddlr/planmerge-ai">
-          <img src="./profile/readme-launcher/planmerge-ai.png" width="154" alt="PlanMerge"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">
-          <img src="./profile/readme-launcher/recycle-vqa.png" width="154" alt="Recycle VQA"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/whtjddlr/godlife-quest-pet">
-          <img src="./profile/readme-launcher/godlife-quest-pet.png" width="154" alt="quest pet"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/whtjddlr/KOK"><img src="./profile/readme-launcher/kok.png" width="154" alt="KOK"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/whtjddlr/BBaru"><img src="./profile/readme-launcher/bbaru.png" width="154" alt="BBaru"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/whtjddlr/carch"><img src="./profile/readme-launcher/carch.png" width="154" alt="carch"/></a>
+  <br/>
+  <a href="https://github.com/whtjddlr/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai.png" width="154" alt="PlanMerge"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge"><img src="./profile/readme-launcher/recycle-vqa.png" width="154" alt="Recycle VQA"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/whtjddlr/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet.png" width="154" alt="quest pet"/></a>
 
+  <br/>
   <sub><a href="https://github.com/whtjddlr?tab=repositories">전체 저장소</a></sub>
 </div>
 
