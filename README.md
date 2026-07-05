@@ -5,17 +5,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/kok"><img src="./profile/readme-launcher/kok-glass.png" width="176" alt="KOK"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/kok"><img src="./profile/readme-launcher/kok-glass.png" width="176" alt="KOK"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/bbaru"><img src="./profile/readme-launcher/bbaru-glass.png" width="176" alt="BBaru"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/bbaru"><img src="./profile/readme-launcher/bbaru-glass.png" width="176" alt="BBaru"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/carch"><img src="./profile/readme-launcher/carch-glass.png" width="176" alt="carch"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/carch"><img src="./profile/readme-launcher/carch-glass.png" width="176" alt="carch"/></a>
   <br/>
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-glass.png" width="176" alt="PlanMerge"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-glass.png" width="176" alt="PlanMerge"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-glass.png" width="176" alt="Recycle VQA"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-glass.png" width="176" alt="Recycle VQA"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-glass.png" width="176" alt="quest pet"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-glass.png" width="176" alt="quest pet"/></a>
 </div>
 
 <br/>
