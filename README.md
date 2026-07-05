@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev">
-    <img width="100%" src="./profile/readme-launcher/hero-tech-icons-glass.webp" alt="Sungik Cho"/>
+    <img width="100%" src="./profile/readme-launcher/hero-tech-icons-glass-v2.webp" alt="Sungik Cho"/>
   </a>
 </div>
 
