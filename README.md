@@ -1,24 +1,24 @@
 <div align="center">
   <picture>
-    <source srcset="./profile/readme-launcher/hero-tech-icons-glass-v2.webp" type="image/webp">
-    <img width="100%" src="./profile/readme-launcher/hero-tech-icons-glass-v2.webp" alt="Sungik Cho"/>
+    <source srcset="./profile/readme-launcher/hero-icon-links-v3.webp" type="image/webp">
+    <img width="100%" src="./profile/readme-launcher/hero-icon-links-v3.webp" alt="Sungik Cho"/>
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/kok"><img src="./profile/readme-launcher/kok-glass.png" width="176" alt="KOK"/></a>
-  &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/bbaru"><img src="./profile/readme-launcher/bbaru-glass.png" width="176" alt="BBaru"/></a>
-  &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/carch"><img src="./profile/readme-launcher/carch-glass.png" width="176" alt="carch"/></a>
-  <br/>
-  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-glass.png" width="176" alt="PlanMerge"/></a>
-  &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-glass.png" width="176" alt="Recycle VQA"/></a>
-  &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-glass.png" width="176" alt="quest pet"/></a>
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/kok"><img src="./profile/readme-launcher/kok-icon-glass.png" width="78" alt="KOK"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/bbaru"><img src="./profile/readme-launcher/bbaru-icon-glass.png" width="78" alt="BBaru"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/carch"><img src="./profile/readme-launcher/carch-icon-glass.png" width="78" alt="carch"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-icon-glass.png" width="78" alt="PlanMerge"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-icon-glass.png" width="78" alt="Recycle VQA"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-icon-glass.png" width="78" alt="quest pet"/></a>
 </div>
 
 <br/>
