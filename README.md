@@ -18,9 +18,6 @@
   <a href="https://whtjddlr-readme-launcher.light-eustoma.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa.png" width="176" alt="Recycle VQA"/></a>
   &nbsp;&nbsp;
   <a href="https://whtjddlr-readme-launcher.light-eustoma.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet.png" width="176" alt="quest pet"/></a>
-
-  <br/>
-  <sub><a href="https://whtjddlr-readme-launcher.light-eustoma.workers.dev">움직이는 런치패드</a> · <a href="https://github.com/whtjddlr?tab=repositories">전체 저장소</a></sub>
 </div>
 
 <br/>
