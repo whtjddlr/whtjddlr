@@ -1,7 +1,8 @@
 <div align="center">
-  <a>
+  <picture>
+    <source srcset="./profile/readme-launcher/hero-tech-icons-glass-v2.webp" type="image/webp">
     <img width="100%" src="./profile/readme-launcher/hero-tech-icons-glass-v2.webp" alt="Sungik Cho"/>
-  </a>
+  </picture>
 </div>
 
 <br/>
