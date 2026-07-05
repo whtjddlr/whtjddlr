@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev">
-    <img width="100%" src="./profile/readme-launcher/hero-tech-icons.webp" alt="Sungik Cho"/>
+    <img width="100%" src="./profile/readme-launcher/hero-tech-icons-v2.webp" alt="Sungik Cho"/>
   </a>
 </div>
 
@@ -13,9 +13,9 @@
   &nbsp;&nbsp;
   <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/carch"><img src="./profile/readme-launcher/carch.png" width="176" alt="carch"/></a>
   <br/>
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai.png" width="176" alt="PlanMerge"/></a>
+  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-text.png" width="176" alt="PlanMerge"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-ssafy.png" width="176" alt="Recycle VQA"/></a>
+  <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-ssafy-v2.png" width="176" alt="Recycle VQA"/></a>
   &nbsp;&nbsp;
   <a href="https://whtjddlr-readme-launcher.safe-join.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet.png" width="176" alt="quest pet"/></a>
 </div>
