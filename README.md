@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev">
-    <img width="100%" src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/hero.svg" alt="Sungik Cho"/>
-  </a>
+  <img width="100%" src="./profile/readme-launcher/hero.png" alt="Sungik Cho"/>
 </div>
 
 <br/>
@@ -10,35 +8,35 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/go/kok">
-          <img src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/apps/kok.svg" width="154" alt="KOK"/>
+        <a href="https://github.com/whtjddlr/KOK">
+          <img src="./profile/readme-launcher/kok.png" width="154" alt="KOK"/>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/go/bbaru">
-          <img src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/apps/bbaru.svg" width="154" alt="BBaru"/>
+        <a href="https://github.com/whtjddlr/BBaru">
+          <img src="./profile/readme-launcher/bbaru.png" width="154" alt="BBaru"/>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/go/carch">
-          <img src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/apps/carch.svg" width="154" alt="carch"/>
+        <a href="https://github.com/whtjddlr/carch">
+          <img src="./profile/readme-launcher/carch.png" width="154" alt="carch"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/go/planmerge-ai">
-          <img src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/apps/planmerge-ai.svg" width="154" alt="PlanMerge"/>
+        <a href="https://github.com/whtjddlr/planmerge-ai">
+          <img src="./profile/readme-launcher/planmerge-ai.png" width="154" alt="PlanMerge"/>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/go/recycle-vqa">
-          <img src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/apps/recycle-vqa.svg" width="154" alt="Recycle VQA"/>
+        <a href="https://github.com/whtjddlr/Recycle_VQA_Challenge">
+          <img src="./profile/readme-launcher/recycle-vqa.png" width="154" alt="Recycle VQA"/>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/go/godlife-quest-pet">
-          <img src="https://whtjddlr-readme-launcher.legend-grasshopper.workers.dev/readme/apps/godlife-quest-pet.svg" width="154" alt="quest pet"/>
+        <a href="https://github.com/whtjddlr/godlife-quest-pet">
+          <img src="./profile/readme-launcher/godlife-quest-pet.png" width="154" alt="quest pet"/>
         </a>
       </td>
     </tr>
