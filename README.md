@@ -19,6 +19,8 @@
   <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-glass.png" width="176" alt="Recycle VQA"/></a>
   &nbsp;&nbsp;
   <a href="https://whtjddlr-readme-launcher.sparkly-offer.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-glass.png" width="176" alt="quest pet"/></a>
+  <br/>
+  <sub>프로젝트 카드를 클릭하면 각 저장소로 이동합니다.</sub>
 </div>
 
 <br/>
