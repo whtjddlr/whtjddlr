@@ -8,17 +8,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://whtjddlr-readme-launcher.chill-bestseller.workers.dev/go/kok"><img src="./profile/readme-launcher/kok-glass.png" width="176" alt="KOK"/></a>
+  <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/kok"><img src="./profile/readme-launcher/kok-glass.png" width="176" alt="KOK"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.chill-bestseller.workers.dev/go/bbaru"><img src="./profile/readme-launcher/bbaru-glass.png" width="176" alt="BBaru"/></a>
+  <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/bbaru"><img src="./profile/readme-launcher/bbaru-glass.png" width="176" alt="BBaru"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.chill-bestseller.workers.dev/go/carch"><img src="./profile/readme-launcher/carch-glass.png" width="176" alt="carch"/></a>
+  <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/carch"><img src="./profile/readme-launcher/carch-glass.png" width="176" alt="carch"/></a>
   <br/>
-  <a href="https://whtjddlr-readme-launcher.chill-bestseller.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-glass.png" width="176" alt="PlanMerge"/></a>
+  <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/planmerge-ai"><img src="./profile/readme-launcher/planmerge-ai-glass.png" width="176" alt="PlanMerge"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.chill-bestseller.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-glass.png" width="176" alt="Recycle VQA"/></a>
+  <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/recycle-vqa"><img src="./profile/readme-launcher/recycle-vqa-glass.png" width="176" alt="Recycle VQA"/></a>
   &nbsp;&nbsp;
-  <a href="https://whtjddlr-readme-launcher.chill-bestseller.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-glass.png" width="176" alt="quest pet"/></a>
+  <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/godlife-quest-pet"><img src="./profile/readme-launcher/godlife-quest-pet-glass.png" width="176" alt="quest pet"/></a>
   <br/>
   <sub>프로젝트 카드를 클릭하면 각 저장소로 이동합니다.</sub>
 </div>
