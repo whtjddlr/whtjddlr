@@ -13,10 +13,13 @@
   <rect width="440" height="520" rx="28" fill="#f8fafc"/>
   <rect x="1" y="1" width="438" height="518" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#cardShadow)"/>
   <ellipse cx="220" cy="139" rx="90" ry="62" fill="#FF5A5F" fill-opacity="0.22" filter="url(#glow)"/>
-  <rect x="150" y="70" width="140" height="140" rx="36" fill="#ffffff" filter="url(#tileShadow)"/>
-  <path d="M220 99c-24 0-43 19-43 43 0 31 43 68 43 68s43-37 43-68c0-24-19-43-43-43z" fill="#FF5A5F"/>
-  <circle cx="220" cy="142" r="14" fill="#ffffff"/>
-  <path d="M188 181c18 18 46 18 64 0" fill="none" stroke="#FF5A5F" stroke-width="10" stroke-linecap="round"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="4.2s" begin="-0.7s" repeatCount="indefinite"/>
+    <rect x="150" y="70" width="140" height="140" rx="36" fill="#ffffff" filter="url(#tileShadow)"/>
+    <path d="M220 99c-24 0-43 19-43 43 0 31 43 68 43 68s43-37 43-68c0-24-19-43-43-43z" fill="#FF5A5F"/>
+    <circle cx="220" cy="142" r="14" fill="#ffffff"/>
+    <path d="M188 181c18 18 46 18 64 0" fill="none" stroke="#FF5A5F" stroke-width="10" stroke-linecap="round"/>
+  </g>
   <text x="220" y="286" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#1e293b">KOK</text>
   <text x="220" y="329" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="26" fill="#64748b">약속 장소 결정</text>
   <g>

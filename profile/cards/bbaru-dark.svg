@@ -13,11 +13,14 @@
   <rect width="440" height="520" rx="28" fill="#0d1117"/>
   <rect x="1" y="1" width="438" height="518" rx="28" fill="#161b22" stroke="#30363d" stroke-width="2" filter="url(#cardShadow)"/>
   <ellipse cx="220" cy="139" rx="90" ry="62" fill="#3B82F6" fill-opacity="0.13" filter="url(#glow)"/>
-  <rect x="150" y="70" width="140" height="140" rx="36" fill="#21262d" stroke="#30363d" filter="url(#tileShadow)"/>
-  <circle cx="220" cy="140" r="51" fill="#3B82F6"/>
-  <circle cx="220" cy="140" r="37" fill="none" stroke="#ffffff" stroke-opacity="0.34" stroke-width="7"/>
-  <path d="M235 94l-18 43h28l-41 50 15-43h-27z" fill="#ffffff"/>
-  <circle cx="220" cy="140" r="5" fill="#dbeafe"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="4.6s" begin="-1.4s" repeatCount="indefinite"/>
+    <rect x="150" y="70" width="140" height="140" rx="36" fill="#21262d" stroke="#30363d" filter="url(#tileShadow)"/>
+    <circle cx="220" cy="140" r="51" fill="#3B82F6"/>
+    <circle cx="220" cy="140" r="37" fill="none" stroke="#ffffff" stroke-opacity="0.34" stroke-width="7"/>
+    <path d="M235 94l-18 43h28l-41 50 15-43h-27z" fill="#ffffff"/>
+    <circle cx="220" cy="140" r="5" fill="#dbeafe"/>
+  </g>
   <text x="220" y="286" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#e6edf3">BBaru</text>
   <text x="220" y="329" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="26" fill="#8b949e">ETA 앱</text>
   <g>
