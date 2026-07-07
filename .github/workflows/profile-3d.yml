@@ -20,6 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: whtjddlr
+          SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Commit generated files
         run: |

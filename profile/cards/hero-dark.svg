@@ -27,7 +27,7 @@
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -18; 0 0" dur="5.6s" begin="-1.1s" repeatCount="indefinite"/>
       <g transform="translate(124 118)">
         <g transform="rotate(-6 48 48)">
-          <rect width="96" height="96" rx="24" fill="#21262d" stroke="#30363d" filter="url(#floatShadow)"/>
+          <rect width="96" height="96" rx="24" fill="#ffffff" stroke="#e6edf3" stroke-opacity="0.25" filter="url(#floatShadow)"/>
           <svg x="16" y="16" width="64" height="64" viewBox="0 0 88 88" preserveAspectRatio="xMidYMid slice">
             <defs>
               <clipPath id="heroKokLogoClip">
@@ -43,7 +43,7 @@
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -20; 0 0" dur="4.8s" begin="-2.4s" repeatCount="indefinite"/>
       <g transform="translate(312 168)">
         <g transform="rotate(7 42 42)">
-          <rect width="84" height="84" rx="23" fill="#21262d" stroke="#30363d" filter="url(#floatShadow)"/>
+          <rect width="84" height="84" rx="23" fill="#ffffff" stroke="#e6edf3" stroke-opacity="0.25" filter="url(#floatShadow)"/>
           <svg x="14" y="14" width="56" height="56" viewBox="0 0 88 88" preserveAspectRatio="xMidYMid slice">
             <defs>
               <clipPath id="heroCarchLogoClip">
@@ -81,7 +81,7 @@
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -19; 0 0" dur="5.1s" begin="-1.8s" repeatCount="indefinite"/>
       <g transform="translate(1402 102)">
         <g transform="rotate(6 50 50)">
-          <rect width="100" height="100" rx="25" fill="#21262d" stroke="#30363d" filter="url(#floatShadow)"/>
+          <rect width="100" height="100" rx="25" fill="#ffffff" stroke="#e6edf3" stroke-opacity="0.25" filter="url(#floatShadow)"/>
           <svg x="17" y="17" width="66" height="66" viewBox="0 0 88 88" preserveAspectRatio="xMidYMid slice">
             <defs>
               <clipPath id="heroBbaruLogoClip">
@@ -110,7 +110,7 @@
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -17; 0 0" dur="4.4s" begin="-3.7s" repeatCount="indefinite"/>
       <g transform="translate(1390 286)">
         <g transform="rotate(5 55 55)">
-          <rect width="110" height="110" rx="26" fill="#21262d" stroke="#30363d" filter="url(#floatShadow)"/>
+          <rect width="110" height="110" rx="26" fill="#ffffff" stroke="#e6edf3" stroke-opacity="0.25" filter="url(#floatShadow)"/>
           <svg x="19" y="19" width="72" height="72" viewBox="0 0 88 88" preserveAspectRatio="xMidYMid slice">
             <defs>
               <clipPath id="heroQuestLogoClip">
