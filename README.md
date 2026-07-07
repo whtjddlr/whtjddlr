@@ -8,6 +8,24 @@
 <br/>
 
 <div align="center">
+  <a href="https://blog.naver.com/solist-">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/cards/badge-blog-dark.svg">
+      <img src="./profile/cards/badge-blog-light.svg" height="40" alt="Blog"/>
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:choim2008@naver.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/cards/badge-email-dark.svg">
+      <img src="./profile/cards/badge-email-light.svg" height="40" alt="Email"/>
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://whtjddlr-readme-launcher.choim2013.workers.dev/go/kok">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/cards/kok-dark.svg">
