@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 520">
+  <defs>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+    <filter id="tileShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.12"/>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="36"/>
+    </filter>
+  </defs>
+  <rect width="440" height="520" rx="28" fill="#f8fafc"/>
+  <rect x="1" y="1" width="438" height="518" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#cardShadow)"/>
+  <ellipse cx="220" cy="139" rx="90" ry="62" fill="#34D399" fill-opacity="0.2" filter="url(#glow)"/>
+  <rect x="150" y="70" width="140" height="140" rx="36" fill="#ffffff" filter="url(#tileShadow)"/>
+  <rect x="168" y="116" width="104" height="66" rx="14" fill="#34D399"/>
+  <rect x="168" y="131" width="104" height="12" fill="#0f766e" fill-opacity="0.24"/>
+  <rect x="184" y="158" width="34" height="8" rx="4" fill="#ffffff" fill-opacity="0.78"/>
+  <rect x="225" y="158" width="30" height="8" rx="4" fill="#ffffff" fill-opacity="0.48"/>
+  <path d="M268 96l7 17 17 7-17 7-7 17-7-17-17-7 17-7z" fill="#34D399"/>
+  <text x="220" y="286" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#1e293b">carch</text>
+  <text x="220" y="329" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="26" fill="#64748b">카드 혜택 추천</text>
+  <g>
+    <rect x="172" y="361" width="96" height="46" rx="23" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.22"/>
+    <circle cx="200" cy="384" r="6" fill="#34D399"/>
+    <text x="218" y="392" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="21" font-weight="600" fill="#10b981">Vue</text>
+  </g>
+  <text x="220" y="461" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#10b981">저장소 보기 →</text>
+</svg>

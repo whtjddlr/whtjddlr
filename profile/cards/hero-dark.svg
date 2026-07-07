@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 480">
+  <defs>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="62"/>
+    </filter>
+    <filter id="panelShadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="30" stdDeviation="34" flood-color="#010409" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="480" fill="#0d1117"/>
+  <circle cx="258" cy="100" r="146" fill="#14b8a6" fill-opacity="0.17" filter="url(#blur)"/>
+  <circle cx="1282" cy="98" r="168" fill="#3b82f6" fill-opacity="0.16" filter="url(#blur)"/>
+  <circle cx="870" cy="405" r="160" fill="#8b5cf6" fill-opacity="0.12" filter="url(#blur)"/>
+  <rect x="60" y="50" width="1480" height="380" rx="48" fill="#161b22" stroke="#30363d" filter="url(#panelShadow)"/>
+  <text x="800" y="128" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" letter-spacing="8" fill="#8b949e">FRONTEND · AI · CLOUD</text>
+  <text x="800" y="247" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="110" font-weight="800" fill="#e6edf3">Sungik Cho</text>
+  <text x="800" y="313" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="500" fill="#8b949e">잘하는 사람은 많으니, 저는 꾸준히 끝까지 만들어보려 합니다.</text>
+  <g font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="650" fill="#c9d1d9">
+    <g>
+      <rect x="318" y="352" width="138" height="58" rx="29" fill="#21262d" fill-opacity="0.76" stroke="#30363d"/>
+      <circle cx="349" cy="381" r="8" fill="#61DAFB"/>
+      <text x="371" y="390">React</text>
+    </g>
+    <g>
+      <rect x="474" y="352" width="205" height="58" rx="29" fill="#21262d" fill-opacity="0.76" stroke="#30363d"/>
+      <circle cx="505" cy="381" r="8" fill="#3178C6"/>
+      <text x="527" y="390">TypeScript</text>
+    </g>
+    <g>
+      <rect x="697" y="352" width="155" height="58" rx="29" fill="#21262d" fill-opacity="0.76" stroke="#30363d"/>
+      <circle cx="728" cy="381" r="8" fill="#FFD43B"/>
+      <text x="750" y="390">Python</text>
+    </g>
+    <g>
+      <rect x="870" y="352" width="190" height="58" rx="29" fill="#21262d" fill-opacity="0.76" stroke="#30363d"/>
+      <circle cx="901" cy="381" r="8" fill="#3ECF8E"/>
+      <text x="923" y="390">Supabase</text>
+    </g>
+    <g>
+      <rect x="1078" y="352" width="205" height="58" rx="29" fill="#21262d" fill-opacity="0.76" stroke="#30363d"/>
+      <circle cx="1109" cy="381" r="8" fill="#F38020"/>
+      <text x="1131" y="390">Cloudflare</text>
+    </g>
+  </g>
+</svg>
