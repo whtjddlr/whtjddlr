@@ -14,7 +14,7 @@
   <rect x="1" y="1" width="438" height="518" rx="28" fill="#161b22" stroke="#30363d" stroke-width="2" filter="url(#cardShadow)"/>
   <ellipse cx="220" cy="139" rx="90" ry="62" fill="#3B82F6" fill-opacity="0.13" filter="url(#glow)"/>
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="4.6s" begin="-1.4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" dur="4.6s" begin="-1.4s" repeatCount="indefinite"/>
     <rect x="150" y="70" width="140" height="140" rx="36" fill="#21262d" stroke="#30363d" filter="url(#tileShadow)"/>
     <circle cx="220" cy="140" r="51" fill="#3B82F6"/>
     <circle cx="220" cy="140" r="37" fill="none" stroke="#ffffff" stroke-opacity="0.34" stroke-width="7"/>

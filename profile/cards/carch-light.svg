@@ -14,14 +14,14 @@
   <rect x="1" y="1" width="438" height="518" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#cardShadow)"/>
   <ellipse cx="220" cy="139" rx="90" ry="62" fill="#34D399" fill-opacity="0.2" filter="url(#glow)"/>
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="5.0s" begin="-2.1s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" dur="5.0s" begin="-2.1s" repeatCount="indefinite"/>
     <rect x="150" y="70" width="140" height="140" rx="36" fill="#ffffff" filter="url(#tileShadow)"/>
     <g>
-    <rect x="184" y="126" width="58" height="36" rx="8" fill="#34D399"/>
-    <rect x="184" y="137" width="58" height="8" fill="#0f766e" fill-opacity="0.3"/>
-    <rect x="195" y="153" width="22" height="4.5" rx="2.25" fill="#ffffff" fill-opacity="0.82"/>
-    <rect x="222" y="153" width="14" height="4.5" rx="2.25" fill="#ffffff" fill-opacity="0.56"/>
-    <path d="M248 102l3.5 8.5 8.5 3.5-8.5 3.5-3.5 8.5-3.5-8.5-8.5-3.5 8.5-3.5z" fill="#34D399"/>
+    <rect x="184" y="130" width="58" height="36" rx="8" fill="#34D399"/>
+    <rect x="184" y="141" width="58" height="8" fill="#0f766e" fill-opacity="0.3"/>
+    <rect x="195" y="157" width="22" height="4.5" rx="2.25" fill="#ffffff" fill-opacity="0.82"/>
+    <rect x="222" y="157" width="14" height="4.5" rx="2.25" fill="#ffffff" fill-opacity="0.56"/>
+    <path d="M250 104l2.5 6 6 2.5-6 2.5-2.5 6-2.5-6-6-2.5 6-2.5z" fill="#34D399"/>
     </g>
   </g>
   <text x="220" y="286" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#1e293b">carch</text>
