@@ -65,9 +65,9 @@
 ### ✍️ 최근 글
 
 <!-- BLOG-POST-LIST:START -->
+- [[SSAFYcial]로그인은 어떻게 기억되는 걸까? 쿠키 vs 세션 완전 정복](https://blog.naver.com/solist-/224364036036?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] 루프 엔지니어링 그게 도대체 뭔데요?](https://blog.naver.com/solist-/224352917931?fromRss=true&trackingCode=rss)
 - [[SSAFYcial 기획 기사] 이 코드도 통역 되나요? : VS Code 단축키 추천](https://blog.naver.com/solist-/224335067565?fromRss=true&trackingCode=rss)
 - [SSAFY x Kakao Tech Bootcamp AI 해커톤 본선 참가 후기](https://blog.naver.com/solist-/224325367395?fromRss=true&trackingCode=rss)
 - [[SSAFYcial 기획 기사] 이 코드도 통역 되나요? : Git이 뭔데?](https://blog.naver.com/solist-/224298671341?fromRss=true&trackingCode=rss)
-- [[SSAFYcial] 요즘 개발자들은 어떤 AI 코딩 에이전트를 쓸까?](https://blog.naver.com/solist-/224289030538?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
