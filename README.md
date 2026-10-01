@@ -65,9 +65,9 @@
 ### ✍️ 최근 글
 
 <!-- BLOG-POST-LIST:START -->
+- [[SSAFYcial]AI 코딩 에이전트도 팀플한다? Orca&lpar;오르카&rpar; 알아보기](https://blog.naver.com/solist-/224427922154?fromRss=true&trackingCode=rss)
+- [[SSAFYcial]도시락통으로 이해하는 Docker](https://blog.naver.com/solist-/224427915741?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] 택배 물류로 이해하는 CI/CD](https://blog.naver.com/solist-/224396199664?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] AI도 팀플을 한다고 ?](https://blog.naver.com/solist-/224385393337?fromRss=true&trackingCode=rss)
 - [[SSAFYcial]로그인은 어떻게 기억되는 걸까? 쿠키 vs 세션 완전 정복](https://blog.naver.com/solist-/224364036036?fromRss=true&trackingCode=rss)
-- [[SSAFYcial] 루프 엔지니어링 그게 도대체 뭔데요?](https://blog.naver.com/solist-/224352917931?fromRss=true&trackingCode=rss)
-- [[SSAFYcial 기획 기사] 이 코드도 통역 되나요? : VS Code 단축키 추천](https://blog.naver.com/solist-/224335067565?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
