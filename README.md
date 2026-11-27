@@ -65,9 +65,9 @@
 ### ✍️ 최근 글
 
 <!-- BLOG-POST-LIST:START -->
+- [[SSAFYcial] 개발자 용어, 번역해드립니다](https://blog.naver.com/solist-/224494775094?fromRss=true&trackingCode=rss)
+- [[SSAFYcial] AI도 인수인계가 필요하다? 컨텍스트 엔지니어](https://blog.naver.com/solist-/224494774130?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] AI가 코딩하는 시대, SDD와 TTD란?](https://blog.naver.com/solist-/224458942800?fromRss=true&trackingCode=rss)
 - [[SSAFYcial] 식당 주문 시스템으로 이해하는 REST API](https://blog.naver.com/solist-/224458940801?fromRss=true&trackingCode=rss)
 - [[SSAFYcial]AI 코딩 에이전트도 팀플한다? Orca&lpar;오르카&rpar; 알아보기](https://blog.naver.com/solist-/224427922154?fromRss=true&trackingCode=rss)
-- [[SSAFYcial]도시락통으로 이해하는 Docker](https://blog.naver.com/solist-/224427915741?fromRss=true&trackingCode=rss)
-- [[SSAFYcial] 택배 물류로 이해하는 CI/CD](https://blog.naver.com/solist-/224396199664?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
